@@ -3,7 +3,9 @@
 Automatiskt insamlad statistik över hur många ködagar som krävs för [SSSB:s](https://sssb.se)
 studentbostäder — något SSSB själva inte publicerar.
 
-**Dashboard:** se GitHub Pages för detta repo (tabell, filter, karta).
+**Dashboard: https://svadola.github.io/sssb-stats/** — tabell, filter, karta och månadsstatistik.
+Sidan serveras med GitHub Pages direkt från `docs/`-mappen i detta repo och uppdateras
+automatiskt vid varje data-commit.
 
 ## Hur det funkar
 
