@@ -308,6 +308,62 @@ main { padding: 0 clamp(16px, 4vw, 56px); }
   color: var(--ink-soft);
 }
 
+/* ————— Säsong (månadsvyn) ————— */
+
+.season {
+  padding: 18px 0 6px;
+  border-bottom: 1px solid rgba(28, 25, 20, 0.3);
+}
+
+.season h2 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.35rem;
+  margin: 0 0 12px;
+}
+
+.season-empty { color: var(--ink-soft); font-style: italic; font-size: 0.88rem; }
+
+.season-row {
+  display: grid;
+  grid-template-columns: 76px minmax(0, 1fr) 56px 48px;
+  gap: 12px;
+  align-items: center;
+  padding: 3px 0;
+}
+
+.season-label {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  text-align: right;
+}
+
+.season-bar-track {
+  height: 18px;
+  background: var(--row-alt);
+  border-left: 2px solid var(--ink);
+}
+
+.season-bar {
+  display: block;
+  height: 100%;
+  min-width: 2px;
+  transition: width 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.season-value {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 0.92rem;
+  text-align: right;
+}
+
+.season-n {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+}
+
 /* ————— Liggaren (tabellen) ————— */
 
 .ledger { padding-bottom: 56px; }

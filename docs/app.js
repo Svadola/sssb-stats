@@ -94,6 +94,7 @@ function render() {
   sortRows(visible);
   renderTable(visible);
   renderSummary();
+  renderSeason();
   renderMap();
   renderHeadline();
   renderControls();
@@ -256,6 +257,38 @@ function renderMap() {
     marker.on("click", () => toggleArea(s.omrade));
     markerLayer.addLayer(marker);
   }
+}
+
+function renderSeason() {
+  const closed = rows.filter((r) =>
+    passesAll(r) && r.status === "stangd" && r.kodagar != null && r.deadline);
+  const el = $("#season-chart");
+  if (!closed.length) {
+    el.innerHTML = '<p class="season-empty">Inga avgjorda annonser matchar filtren än — vyn fylls på i takt med att bokningsdeadlines passerar.</p>';
+    return;
+  }
+  const byMonth = new Map();
+  for (const r of closed) {
+    const m = r.deadline.slice(0, 7);
+    if (!byMonth.has(m)) byMonth.set(m, []);
+    byMonth.get(m).push(r.kodagar);
+  }
+  const months = [...byMonth.entries()]
+    .map(([m, list]) => ({ m, median: median(list), antal: list.length }))
+    .sort((a, b) => a.m.localeCompare(b.m));
+  const maxMedian = Math.max(...months.map((s) => s.median), 1);
+  el.innerHTML = months.map((s) => {
+    const [y, mm] = s.m.split("-");
+    const label = `${MONTHS[+mm - 1]} ${y}`;
+    return `<div class="season-row">
+      <span class="season-label">${label}</span>
+      <span class="season-bar-track">
+        <span class="season-bar" style="width:${(s.median / maxMedian) * 100}%;background:${dayColor(s.median)}"></span>
+      </span>
+      <span class="season-value">${s.median}</span>
+      <span class="season-n">${s.antal} st</span>
+    </div>`;
+  }).join("");
 }
 
 function renderHeadline() {
