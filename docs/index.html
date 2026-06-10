@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SSSB Ködagar — statistik över studentbostadskön</title>
+<meta name="description" content="Hur många ködagar krävs för en SSSB-bostad? Automatiskt insamlad statistik per område, bostadstyp och annons.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=IBM+Plex+Mono:wght@400;500;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-rule"></div>
+  <div class="masthead-inner">
+    <div class="masthead-title">
+      <h1>SSSB<span class="accent">·</span>KÖDAGAR</h1>
+      <p class="tagline">Oavhängig statistik över Stockholms studentbostadskö — insamlad varje timme, samplad vid varje bokningsdeadline.</p>
+    </div>
+    <div class="masthead-stats" id="headline-stats" aria-live="polite">
+      <!-- fylls av app.js -->
+    </div>
+  </div>
+  <div class="masthead-rule thick"></div>
+</header>
+
+<main>
+  <section class="controls" aria-label="Filter">
+    <div class="control-group" id="status-group" role="group" aria-label="Status">
+      <button class="chip" data-status="alla">Alla</button>
+      <button class="chip" data-status="stangd">Avgjorda</button>
+      <button class="chip" data-status="aktiv">Pågående</button>
+    </div>
+
+    <div class="control-group" id="typ-group" role="group" aria-label="Bostadstyp">
+      <!-- typ-chips fylls av app.js -->
+    </div>
+
+    <div class="control-group ranges">
+      <label>Yta <input type="number" id="yta-min" placeholder="min" min="0"> – <input type="number" id="yta-max" placeholder="max" min="0"> m²</label>
+      <label>Hyra <input type="number" id="hyra-min" placeholder="min" min="0" step="500"> – <input type="number" id="hyra-max" placeholder="max" min="0" step="500"> kr</label>
+    </div>
+
+    <div class="control-group omrade-control">
+      <details id="omrade-details">
+        <summary id="omrade-summary">Områden: alla</summary>
+        <div class="omrade-panel" id="omrade-panel">
+          <div class="omrade-panel-actions">
+            <button id="omrade-alla" type="button">Markera alla</button>
+            <button id="omrade-inga" type="button">Rensa</button>
+          </div>
+          <div id="omrade-checkboxes"></div>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <section class="atlas">
+    <div class="atlas-map">
+      <div id="map" role="img" aria-label="Karta över SSSB:s bostadsområden"></div>
+      <div class="map-legend" id="map-legend"></div>
+    </div>
+    <div class="atlas-summary">
+      <h2>Ködagar per område <span class="h2-note">median av avgjorda<span id="summary-fallback-note"></span></span></h2>
+      <ol id="omrade-summary-list"></ol>
+    </div>
+  </section>
+
+  <section class="ledger">
+    <div class="ledger-head">
+      <h2 id="table-caption">Annonser</h2>
+      <span class="ledger-count" id="row-count"></span>
+    </div>
+    <div class="table-wrap">
+      <table id="listing-table" aria-describedby="table-caption">
+        <thead>
+          <tr>
+            <th data-sort="adress" class="sortable">Adress</th>
+            <th data-sort="omrade" class="sortable">Område</th>
+            <th data-sort="typ" class="sortable">Typ</th>
+            <th data-sort="yta" class="sortable num">m²</th>
+            <th data-sort="vaning" class="sortable">Våning</th>
+            <th data-sort="hyraNum" class="sortable num">Hyra</th>
+            <th data-sort="kodagar" class="sortable num">Ködagar</th>
+            <th data-sort="antalSokande" class="sortable num">Sökande</th>
+            <th data-sort="deadline" class="sortable">Bokas senast</th>
+          </tr>
+        </thead>
+        <tbody id="listing-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="masthead-rule"></div>
+  <p><strong>Metod.</strong> Varje annons hos SSSB visar löpande den ledande sökandens ködagar. Värdet samplas tätt fram till bokningsdeadline; sista värdet före deadline ≈ ködagar som krävdes. Den som vann kan ha tackat nej, så verkligt krav kan vara något lägre. Pågående annonser visar nuvarande ledare, inte slutvärde.</p>
+  <p class="footer-meta"><span id="generated-at"></span> · Data &amp; kod: <a id="repo-link" href="#">GitHub</a> · Kartdata © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a></p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+name: Poll
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # varje timme
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape   # krockar inte med deadline-jobbet; köas i stället
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m scraper.poll
+      - name: Commit & push
+        run: |
+          git config user.name "sssb-scraper[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "Inga ändringar."
+            exit 0
+          fi
+          git commit -m "poll $(date -u +'%Y-%m-%d %H:%MZ')"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1

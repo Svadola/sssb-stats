@@ -1,0 +1,43 @@
+name: Deadline watch
+
+# Startar före bokningsdeadline (hittills alltid kl 10:00 svensk tid) och
+# samplar tätt tills sista deadline passerat. Dubbla cron-tider täcker både
+# sommar- och vintertid; skriptet är en no-op om inga deadlines är nära.
+on:
+  schedule:
+    - cron: "30 6 * * *"   # 08:30 CEST / 07:30 CET
+    - cron: "30 7 * * *"   # 09:30 CEST / 08:30 CET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 230
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m scraper.watch
+      - name: Commit & push
+        run: |
+          git config user.name "sssb-scraper[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "Inga ändringar."
+            exit 0
+          fi
+          git commit -m "deadline watch $(date -u +'%Y-%m-%d %H:%MZ')"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1

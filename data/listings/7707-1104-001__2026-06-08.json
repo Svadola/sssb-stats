@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 6 / 1313",
+ "bildFiler": [
+  {
+   "fil": "media/images/e5721fc728c6e99a93bb599cf4b5fe50b63c3b62.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-06-11T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=544c6e4d5858705a473452745435474c47705948634a6271774e69696955376c774c6447394636367274343d",
+ "hiss": "Nej",
+ "hyra": "7 513",
+ "inflyttningDatum": "2026-07-01",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+6+%2F+1313%2CStockholm",
+ "key": "7707-1104-001__2026-06-08",
+ "lat": 59.3706732,
+ "lon": 18.0619067,
+ "objektNr": "7707-1104-001",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7707-1104-001.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7707-1104-001",
+ "publiceratDatum": "2026-06-08",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att bostaden ligger i anslutning till Lappis padelbana vilket kan uppfattas som störande.</div>\n",
+ "sistSedd": "2026-06-10T12:26:26+02:00",
+ "typ": "2 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "3",
+ "yta": 44
+}
