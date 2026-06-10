@@ -64,7 +64,7 @@ def append_snapshots(rows):
     path = SNAPSHOTS_DIR / (now().strftime("%Y-%m") + ".csv")
     new_file = not path.exists()
     with path.open("a", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=SNAPSHOT_FIELDS)
+        writer = csv.DictWriter(f, fieldnames=SNAPSHOT_FIELDS, lineterminator="\n")
         if new_file:
             writer.writeheader()
         writer.writerows(rows)
