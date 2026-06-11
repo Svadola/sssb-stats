@@ -10,6 +10,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 5 personer, varav den med flest ködagar just nu har 364 ködagar.",
  "deadline": "2026-06-11T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=706c4a6344354b38646c58563865724b6f4c424c387a76564154774879356773554c4265392b705373354d3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-06-08",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Hissar</h4>Det finns en tillgänglighetshiss i huset för dem som behöver den.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktig att ta del av innan du bokar</h4>\nI den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information läs under <a href=\"https://sssb.se/soka-bostad/boendevillkor/olika-typer-av-hyresavtal/\">Olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-06-11T09:05:07+02:00",
+ "slutresultat": {
+  "antal_sokande": 5,
+  "kodagar": 364,
+  "ts": "2026-06-11T09:05:07+02:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "3",

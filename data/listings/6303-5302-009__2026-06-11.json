@@ -1,0 +1,30 @@
+{
+ "adress": "Kungshamra 53 B / 1101",
+ "bildFiler": [
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-15T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=7441377146446f325430616d6a64584675387574427366716d5a467632355335356f696b536a2b657248633d",
+ "hiss": "Nej",
+ "hyra": "9 587",
+ "inflyttningDatum": "2026-07-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+53+B+%2F+1101%2CSolna",
+ "key": "6303-5302-009__2026-06-11",
+ "lat": 59.3819394,
+ "lon": 18.0251405,
+ "objektNr": "6303-5302-009",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6303-5302-009.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6303-5302-009",
+ "publiceratDatum": "2026-06-11",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell elmätning</h4>Det är individuell elmätning i bostaden. Detta innebär att du betalar en schablon för el som sedan avräknas mot faktisk användning. Schablonen är medräknad i den totala hyran som visas. Det tillkommer 25% moms på schablonen för el vid avisering av hyran.</div>\n",
+ "sistSedd": "2026-06-11T13:51:12+02:00",
+ "typ": "3 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "1",
+ "yta": 64
+}

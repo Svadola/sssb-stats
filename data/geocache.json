@@ -1,7 +1,23 @@
 {
+ "Armégatan 32 A, Solna, Stockholm, Sweden": {
+  "lat": 59.3500713,
+  "lon": 18.0027516
+ },
+ "Armégatan 32 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3501375,
+  "lon": 18.0039752
+ },
  "Armégatan 32 C, Solna, Stockholm, Sweden": {
   "lat": 59.3496816,
   "lon": 18.0038842
+ },
+ "Armégatan 34, Solna, Stockholm, Sweden": {
+  "lat": 59.3505851,
+  "lon": 18.0025582
+ },
+ "David Bagares Gata 6, Stockholm, Stockholm, Sweden": {
+  "lat": 59.337334,
+  "lon": 18.068756
  },
  "Emmylundsvägen 5, Solna, Stockholm, Sweden": {
   "lat": 59.3478985,
@@ -11,9 +27,21 @@
   "lat": 59.3706732,
   "lon": 18.0619067
  },
+ "Forskarbacken 9, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3710945,
+  "lon": 18.0613401
+ },
+ "Fyrverkarbacken 25, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3264705,
+  "lon": 18.020724
+ },
  "Gustav III:s Boulevard 4, Solna, Stockholm, Sweden": {
   "lat": 59.3677028,
   "lon": 18.0153051
+ },
+ "Holländargatan 21 B, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3385979,
+  "lon": 18.0583744
  },
  "Kammakargatan 36 A, Stockholm, Stockholm, Sweden": {
   "lat": 59.3381708,
@@ -23,13 +51,25 @@
   "lat": 59.338296,
   "lon": 18.0589439
  },
+ "Kungshamra 11, Solna, Stockholm, Sweden": {
+  "lat": 59.3811785,
+  "lon": 18.0224737
+ },
  "Kungshamra 16 A, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
  },
+ "Kungshamra 2, Solna, Stockholm, Sweden": {
+  "lat": 59.3827501,
+  "lon": 18.0198876
+ },
  "Kungshamra 21, Solna, Stockholm, Sweden": {
   "lat": 59.380974,
   "lon": 18.0250698
+ },
+ "Kungshamra 22 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
  },
  "Kungshamra 23 B, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
@@ -47,7 +87,15 @@
   "lat": 59.3819394,
   "lon": 18.0251405
  },
+ "Kungshamra 53 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
  "Kungshamra 54 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
+ "Kungshamra 72 B, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
  },
@@ -55,9 +103,29 @@
   "lat": 59.3819394,
   "lon": 18.0251405
  },
+ "Kungshamra 81, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
  "Kungshamra 82, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
+ },
+ "Körsbärsvägen 2 B, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3486273,
+  "lon": 18.0646997
+ },
+ "Körsbärsvägen 3, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3487592,
+  "lon": 18.0638868
+ },
+ "Maltgatan 12, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3028973,
+  "lon": 18.0976565
+ },
+ "Maltgatan 8, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3031214,
+  "lon": 18.0979655
  },
  "Norra Stationsgatan 99, Stockholm, Stockholm, Sweden": {
   "lat": 59.3444977,
@@ -66,6 +134,10 @@
  "Professorsslingan 10, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704065,
   "lon": 18.0597907
+ },
+ "Professorsslingan 35, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3699083,
+  "lon": 18.065561
  },
  "Professorsslingan 47, Stockholm, Stockholm, Sweden": {
   "lat": 59.3695191,
@@ -83,6 +155,10 @@
   "lat": 59.3695191,
   "lon": 18.0632108
  },
+ "Professorsslingan 57, Stockholm, Stockholm, Sweden": {
+  "lat": 59.370484,
+  "lon": 18.0592044
+ },
  "Professorsslingan 61, Stockholm, Stockholm, Sweden": {
   "lat": 59.370484,
   "lon": 18.0592044
@@ -98,5 +174,13 @@
  "Understensvägen 10, Johanneshov, Stockholm, Sweden": {
   "lat": 59.2885424,
   "lon": 18.1201346
+ },
+ "Understensvägen 20, Johanneshov, Stockholm, Sweden": {
+  "lat": 59.2882985,
+  "lon": 18.1196641
+ },
+ "Öregrundsgatan 11, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3456718,
+  "lon": 18.111718
  }
 }
