@@ -10,6 +10,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 1 personer, varav den med flest ködagar just nu har 247 ködagar.",
  "deadline": "2026-06-15T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6c5a342f627068654e5a674131392b772f6439313650684f363252576c63562f30777758503636666637553d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-06-11",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Begränsad utsikt</strong><br>Utsikt genom fönster mot intilliggande fastighet.</div>\n",
  "sistSedd": "2026-06-15T09:39:08+02:00",
+ "slutresultat": {
+  "antal_sokande": 1,
+  "kodagar": 247,
+  "ts": "2026-06-15T15:58:41+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "Bottenvåning",

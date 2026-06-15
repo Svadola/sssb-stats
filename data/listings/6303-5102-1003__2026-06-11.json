@@ -30,6 +30,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Detta objekt har ännu inte bokats.",
  "deadline": "2026-06-15T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6847384352614a45666f33645a45476e54555950657169625079363374686c71613235524953613670686b3d",
  "hiss": "Nej",
@@ -47,6 +48,11 @@
  "publiceratDatum": "2026-06-11",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Nyrenoverad bostad</h4>Den här bostaden är nyrenoverad och du blir den första hyresgästen efter renoveringen.<br /><br /> Se <a href=\"https://www.youtube.com/shorts/8xd8p9PTVao\" target=\"_blank\" rel=\"noopener\">en videovisning av en liknande bostad</a>. Observera att skillnader i planlösning kan förekomma. <br /><br /> <h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a> <br /><br /><h4>Vi renoverar på Kungshamra</h4>Vi utvecklar området vidare med planerade arbeten på gården och intilliggande fastigheter, se mer information under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a>.</div>\n",
  "sistSedd": "2026-06-15T09:39:08+02:00",
+ "slutresultat": {
+  "antal_sokande": 0,
+  "kodagar": 0,
+  "ts": "2026-06-15T15:58:41+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "Bottenvåning",
