@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 1 / 1301",
+ "bildFiler": [
+  {
+   "fil": "media/images/6e8d60bf62bd5b620f3eb2a7168462f2578710c2.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-06-22T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=426f422b4b36494c486f2f302f665a7a7962542b6b416c7631322b4b712b64576e547858326d77595237773d",
+ "hiss": "Nej",
+ "hyra": "4 767",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+1+%2F+1301%2CStockholm",
+ "key": "7909-0104-002__2026-06-15",
+ "lat": 59.3708525,
+ "lon": 18.0595313,
+ "objektNr": "7909-0104-002",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7909-0104-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7909-0104-002",
+ "publiceratDatum": "2026-06-15",
+ "publiceringstexter": "",
+ "sistSedd": "2026-06-15T16:38:10+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "3",
+ "yta": 18
+}

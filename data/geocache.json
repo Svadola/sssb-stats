@@ -1,4 +1,12 @@
 {
+ "Amanuensvägen 12, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3698933,
+  "lon": 18.0641258
+ },
+ "Amanuensvägen 14, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3694538,
+  "lon": 18.0660456
+ },
  "Armégatan 32 A, Solna, Stockholm, Sweden": {
   "lat": 59.3500713,
   "lon": 18.0027516
@@ -19,13 +27,29 @@
   "lat": 59.337334,
   "lon": 18.068756
  },
+ "Emmylundsvägen 1, Solna, Stockholm, Sweden": {
+  "lat": 59.3479926,
+  "lon": 18.0012792
+ },
+ "Emmylundsvägen 3, Solna, Stockholm, Sweden": {
+  "lat": 59.3475788,
+  "lon": 18.000786
+ },
  "Emmylundsvägen 5, Solna, Stockholm, Sweden": {
   "lat": 59.3478985,
   "lon": 18.0005946
  },
+ "Forskarbacken 1, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3708525,
+  "lon": 18.0595313
+ },
  "Forskarbacken 6, Stockholm, Stockholm, Sweden": {
   "lat": 59.3706732,
   "lon": 18.0619067
+ },
+ "Forskarbacken 7, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3712267,
+  "lon": 18.0604771
  },
  "Forskarbacken 9, Stockholm, Stockholm, Sweden": {
   "lat": 59.3710945,
@@ -95,6 +119,10 @@
   "lat": 59.3819394,
   "lon": 18.0251405
  },
+ "Kungshamra 55 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
  "Kungshamra 72 B, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
@@ -119,6 +147,18 @@
   "lat": 59.3487592,
   "lon": 18.0638868
  },
+ "Körsbärsvägen 4 A, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3486502,
+  "lon": 18.0650396
+ },
+ "Körsbärsvägen 4 B, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3486273,
+  "lon": 18.0646997
+ },
+ "Körsbärsvägen 4 C, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3488865,
+  "lon": 18.0646814
+ },
  "Maltgatan 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3028973,
   "lon": 18.0976565
@@ -127,6 +167,10 @@
   "lat": 59.3031214,
   "lon": 18.0979655
  },
+ "Nathorstvägen 46, Johanneshov, Stockholm, Sweden": {
+  "lat": 59.2951287,
+  "lon": 18.0942222
+ },
  "Norra Stationsgatan 99, Stockholm, Stockholm, Sweden": {
   "lat": 59.3444977,
   "lon": 18.0299993
@@ -134,6 +178,22 @@
  "Professorsslingan 10, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704065,
   "lon": 18.0597907
+ },
+ "Professorsslingan 13, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3698337,
+  "lon": 18.0622973
+ },
+ "Professorsslingan 17, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3695901,
+  "lon": 18.0637435
+ },
+ "Professorsslingan 19, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3694542,
+  "lon": 18.0644653
+ },
+ "Professorsslingan 23, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3693335,
+  "lon": 18.0652475
  },
  "Professorsslingan 35, Stockholm, Stockholm, Sweden": {
   "lat": 59.3699083,
@@ -167,9 +227,29 @@
   "lat": 59.370484,
   "lon": 18.0592044
  },
+ "Roslagstullsbacken 5, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3514228,
+  "lon": 18.0584626
+ },
+ "Röntgenvägen 1, Huddinge, Stockholm, Sweden": {
+  "lat": 59.2243793,
+  "lon": 17.9364664
+ },
  "Simrishamnsvägen 15, Johanneshov, Stockholm, Sweden": {
   "lat": 59.2888958,
   "lon": 18.1186798
+ },
+ "Studentbacken 21, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3486682,
+  "lon": 18.0949179
+ },
+ "Studentbacken 23, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3487421,
+  "lon": 18.0955554
+ },
+ "Studentbacken 25, Stockholm, Stockholm, Sweden": {
+  "lat": 59.34882,
+  "lon": 18.0961543
  },
  "Understensvägen 10, Johanneshov, Stockholm, Sweden": {
   "lat": 59.2885424,
@@ -178,6 +258,10 @@
  "Understensvägen 20, Johanneshov, Stockholm, Sweden": {
   "lat": 59.2882985,
   "lon": 18.1196641
+ },
+ "Värtavägen 66, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3474344,
+  "lon": 18.1029193
  },
  "Öregrundsgatan 11, Stockholm, Stockholm, Sweden": {
   "lat": 59.3456718,

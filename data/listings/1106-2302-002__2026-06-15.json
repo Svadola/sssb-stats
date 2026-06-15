@@ -1,0 +1,34 @@
+{
+ "adress": "Studentbacken 23 / 1001",
+ "bildFiler": [
+  {
+   "fil": "media/images/e34e98ea05dfc606cf98e4317a6a23ff3dc26fde.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/5d1075dce66e19f64bb372323fcb65f3f0d75c67.jpg",
+   "text": "jerum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-22T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=65327a2b43465142585653615a456d45787864574a52623862314167682b55307149764c416a5a485354413d",
+ "hiss": "Ja",
+ "hyra": "4 975",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Studentbacken+23+%2F+1001%2CStockholm",
+ "key": "1106-2302-002__2026-06-15",
+ "lat": 59.3487421,
+ "lon": 18.0955554,
+ "objektNr": "1106-2302-002",
+ "omrade": "Jerum",
+ "omradeKod": "Jerum",
+ "planlosningFil": "media/floorplans/1106-2302-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1106-2302-002",
+ "publiceratDatum": "2026-06-15",
+ "publiceringstexter": "",
+ "sistSedd": "2026-06-15T16:38:10+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "Bottenvåning",
+ "yta": 17
+}

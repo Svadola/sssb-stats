@@ -1,0 +1,30 @@
+{
+ "adress": "Kungshamra 21 / 1003",
+ "bildFiler": [
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-22T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6a6754744874774f304a797761774b575a644576424e6c52654d47414167744a64385537413153715054773d",
+ "hiss": "Nej",
+ "hyra": "7 230",
+ "inflyttningDatum": "2026-07-01",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+21+%2F+1003%2CSolna",
+ "key": "6202-2102-1003__2026-06-15",
+ "lat": 59.380974,
+ "lon": 18.0250698,
+ "objektNr": "6202-2102-1003",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6202-2102-1003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-2102-1003",
+ "publiceratDatum": "2026-06-15",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\">Underhåll av fasaden pågår fram till oktober, vilket kan innebära störande arbeten. Läs mer under <a href=\"https://www.sssb.se/nyheter/underhall-av-fasader-pa-kungshamra-21/\">Underhåll av fasader på Kungshamra 21</a>.<br /><br /><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-06-15T16:38:10+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 18
+}

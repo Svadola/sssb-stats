@@ -1,0 +1,34 @@
+{
+ "adress": "Kungshamra 48 / 1304",
+ "bildFiler": [
+  {
+   "fil": "media/images/657c5253c6a91922ec73657a5f53317b69970b2f.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-22T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=306d626c4f554352726d4977575a6e612b4c7778576b7a354a4a6c447045326e70783373574a52634a53513d",
+ "hiss": "Ja",
+ "hyra": "9 776",
+ "inflyttningDatum": "2026-07-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+48+%2F+1304%2CSolna",
+ "key": "6202-4804-002__2026-06-15",
+ "lat": 59.3823314,
+ "lon": 18.0237898,
+ "objektNr": "6202-4804-002",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6202-4804-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-4804-002",
+ "publiceratDatum": "2026-06-15",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Hissar</h4>Det finns en tillgänglighetshiss i huset för dem som behöver den.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktig att ta del av innan du bokar</h4>\nI den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information läs under <a href=\"https://sssb.se/soka-bostad/boendevillkor/olika-typer-av-hyresavtal/\">Olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-06-15T16:38:10+02:00",
+ "typ": "2 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "3",
+ "yta": 45
+}
