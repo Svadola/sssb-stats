@@ -1,0 +1,34 @@
+{
+ "adress": "Körsbärsvägen 4 C / 1511",
+ "bildFiler": [
+  {
+   "fil": "media/images/0117288c86800233cdab475beb485d442c3a0b0b.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/c582282da5d59ceecb7fd47c17f2630c3eab7d6e.jpg",
+   "text": "forum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-25T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3643627a54365657306b3666786d563677346a35485a4d4f4535394534514a6468654e742b496d584b446b3d",
+ "hiss": "Ja",
+ "hyra": "4 793",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=K%C3%B6rsb%C3%A4rsv%C3%A4gen+4+C+%2F+1511%2CStockholm",
+ "key": "2118-0408-036__2026-06-22",
+ "lat": 59.3488865,
+ "lon": 18.0646814,
+ "objektNr": "2118-0408-036",
+ "omrade": "Forum",
+ "omradeKod": "FORUM",
+ "planlosningFil": "media/floorplans/2118-0408-036.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=2118-0408-036",
+ "publiceratDatum": "2026-06-22",
+ "publiceringstexter": "",
+ "sistSedd": "2026-06-22T19:53:36+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "5",
+ "yta": 18
+}

@@ -1,0 +1,34 @@
+{
+ "adress": "Roslagstullsbacken 5 / 1604",
+ "bildFiler": [
+  {
+   "fil": "media/images/7df851b0d5ba171fc1180f86f6259e4ee30e759d.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/1534bdbbe194a90b290efd6f76b72909c988d047.jpg",
+   "text": "roslagstull_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-25T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=536d776f38567435684c5a5151446f317a70556946327a49322b2b78394e727669693937556972304233343d",
+ "hiss": "Ja",
+ "hyra": "4 520",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Roslagstullsbacken+5+%2F+1604%2CStockholm",
+ "key": "2405-0508-005__2026-06-22",
+ "lat": 59.3514228,
+ "lon": 18.0584626,
+ "objektNr": "2405-0508-005",
+ "omrade": "Roslagstull",
+ "omradeKod": "Roslag",
+ "planlosningFil": "media/floorplans/2405-0508-005.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=2405-0508-005",
+ "publiceratDatum": "2026-06-22",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/renovering-pa-roslagstull/\">Renovering på Roslagstull</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-06-22T19:53:36+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "6",
+ "yta": 16
+}
