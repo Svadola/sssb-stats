@@ -1,5 +1,5 @@
 {
- "adress": "Värtavägen 66 / 1304",
+ "adress": "Värtavägen 66 / 1107",
  "bildFiler": [
   {
    "fil": "media/images/e53ab4c69aef59cb614f23b3b7554dcf3c5e2d32.jpg",
@@ -11,24 +11,24 @@
   }
  ],
  "deadline": "2026-06-25T10:00",
- "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4f677636544744325637724334634e3370435a3178656c4f71686472736b506937327551477178504150553d",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=2b58534a514c37644e68445339416b3063434d4f4e78785a675a526c346830323544655a32794b336c6b453d",
  "hiss": "Ja",
  "hyra": "4 928",
  "inflyttningDatum": "2026-08-01",
- "kartURL": "https://maps.google.se/?q=V%C3%A4rtav%C3%A4gen+66+%2F+1304%2CStockholm",
- "key": "1407-6605-006__2026-06-22",
+ "kartURL": "https://maps.google.se/?q=V%C3%A4rtav%C3%A4gen+66+%2F+1107%2CStockholm",
+ "key": "1407-6603-009__2026-06-23",
  "lat": 59.3474344,
  "lon": 18.1029193,
- "objektNr": "1407-6605-006",
+ "objektNr": "1407-6603-009",
  "omrade": "Fyrtalet",
  "omradeKod": "Fyrtal",
- "planlosningFil": "media/floorplans/1407-6605-006.pdf",
- "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1407-6605-006",
- "publiceratDatum": "2026-06-22",
+ "planlosningFil": "media/floorplans/1407-6603-009.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1407-6603-009",
+ "publiceratDatum": "2026-06-23",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\">Med reservation för avvikelser avseende mått och fast inredning i bostaden.</div>\n",
  "sistSedd": "2026-06-23T15:46:41+02:00",
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
- "vaning": "3",
+ "vaning": "1",
  "yta": 18
 }
