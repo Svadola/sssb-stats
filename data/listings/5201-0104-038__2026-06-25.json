@@ -1,0 +1,34 @@
+{
+ "adress": "Emmylundsvägen 3 / 1312",
+ "bildFiler": [
+  {
+   "fil": "media/images/33c957feb0f36111d3d98c27adf55e4a81c0cd65.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/20eac38ed4fe9ab2031931818e70c3d594073e40.jpg",
+   "text": "pax_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-29T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=556b344d2f7651592b626e352f6f696a3676442b736d496f6959547561425a7770694c52374a756d72304d3d",
+ "hiss": "Ja",
+ "hyra": "4 181",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Emmylundsv%C3%A4gen+3+%2F+1312%2CSolna",
+ "key": "5201-0104-038__2026-06-25",
+ "lat": 59.3475788,
+ "lon": 18.000786,
+ "objektNr": "5201-0104-038",
+ "omrade": "Pax",
+ "omradeKod": "Pax",
+ "planlosningFil": "media/floorplans/5201-0104-038.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5201-0104-038",
+ "publiceratDatum": "2026-06-25",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktigt att ta del av innan du bokar</h4>Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information, läs under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-2/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-06-25T10:34:11+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "3",
+ "yta": 17
+}

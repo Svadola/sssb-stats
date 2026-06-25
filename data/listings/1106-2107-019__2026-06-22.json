@@ -10,6 +10,7 @@
    "text": "jerum_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 4 personer, varav den med flest ködagar just nu har 384 ködagar.",
  "deadline": "2026-06-25T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6e793069494357624e33477a4d6e6265775741324371774a5a724d77334e42506652567269754b2f7474553d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-06-22",
  "publiceringstexter": "",
  "sistSedd": "2026-06-25T06:34:06+02:00",
+ "slutresultat": {
+  "antal_sokande": 4,
+  "kodagar": 384,
+  "ts": "2026-06-25T06:34:06+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "5",

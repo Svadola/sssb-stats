@@ -11,6 +11,14 @@
   "lat": 59.3702466,
   "lon": 18.0626227
  },
+ "Amanuensvägen 5, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3700586,
+  "lon": 18.0636884
+ },
+ "Amanuensvägen 6, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3702096,
+  "lon": 18.0619704
+ },
  "Armégatan 32 A, Solna, Stockholm, Sweden": {
   "lat": 59.3500713,
   "lon": 18.0027516
@@ -46,6 +54,22 @@
  "Forskarbacken 1, Stockholm, Stockholm, Sweden": {
   "lat": 59.3708525,
   "lon": 18.0595313
+ },
+ "Forskarbacken 10, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3704854,
+  "lon": 18.0630648
+ },
+ "Forskarbacken 15, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3708135,
+  "lon": 18.063044
+ },
+ "Forskarbacken 17, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3707322,
+  "lon": 18.0635278
+ },
+ "Forskarbacken 19, Stockholm, Stockholm, Sweden": {
+  "lat": 59.370638,
+  "lon": 18.0640244
  },
  "Forskarbacken 21, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704715,
@@ -167,6 +191,14 @@
   "lat": 59.3488865,
   "lon": 18.0646814
  },
+ "Körsbärsvägen 5, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3486273,
+  "lon": 18.0646997
+ },
+ "Körsbärsvägen 9, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3493572,
+  "lon": 18.0626336
+ },
  "Maltgatan 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3028973,
   "lon": 18.0976565
@@ -187,6 +219,10 @@
   "lat": 59.3704065,
   "lon": 18.0597907
  },
+ "Professorsslingan 11, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3698864,
+  "lon": 18.0619682
+ },
  "Professorsslingan 13, Stockholm, Stockholm, Sweden": {
   "lat": 59.3698337,
   "lon": 18.0622973
@@ -202,6 +238,10 @@
  "Professorsslingan 23, Stockholm, Stockholm, Sweden": {
   "lat": 59.3693335,
   "lon": 18.0652475
+ },
+ "Professorsslingan 25, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3693049,
+  "lon": 18.0653493
  },
  "Professorsslingan 35, Stockholm, Stockholm, Sweden": {
   "lat": 59.3699083,
@@ -274,5 +314,9 @@
  "Öregrundsgatan 11, Stockholm, Stockholm, Sweden": {
   "lat": 59.3456718,
   "lon": 18.111718
+ },
+ "Öregrundsgatan 9, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3459726,
+  "lon": 18.1112291
  }
 }

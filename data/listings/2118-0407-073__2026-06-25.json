@@ -1,0 +1,34 @@
+{
+ "adress": "Körsbärsvägen 4 A / 1406",
+ "bildFiler": [
+  {
+   "fil": "media/images/0117288c86800233cdab475beb485d442c3a0b0b.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/c582282da5d59ceecb7fd47c17f2630c3eab7d6e.jpg",
+   "text": "forum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-06-29T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=77525871526b6c774c6b525262417a554d2f624e62664d44694658535473516e767045624b6a35687965553d",
+ "hiss": "Ja",
+ "hyra": "4 909",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=K%C3%B6rsb%C3%A4rsv%C3%A4gen+4+A+%2F+1406%2CStockholm",
+ "key": "2118-0407-073__2026-06-25",
+ "lat": 59.3486502,
+ "lon": 18.0650396,
+ "objektNr": "2118-0407-073",
+ "omrade": "Forum",
+ "omradeKod": "FORUM",
+ "planlosningFil": "media/floorplans/2118-0407-073.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=2118-0407-073",
+ "publiceratDatum": "2026-06-25",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Hiss</h4>\nHissen går till våning 3 av 5. Våning 4 nås via trappa.</div>\n",
+ "sistSedd": "2026-06-25T10:34:11+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "4",
+ "yta": 18
+}

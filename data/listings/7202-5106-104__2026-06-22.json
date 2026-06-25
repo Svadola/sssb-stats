@@ -34,6 +34,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 86 ködagar.",
  "deadline": "2026-06-25T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4853457a44494c386d5a4748315754432f464e33783250435465734d6b573253724b52533741424a7256553d",
  "hiss": "Ja",
@@ -51,6 +52,11 @@
  "publiceratDatum": "2026-06-22",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\">Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning och ytfinish kan variera.<br /><br /> <h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-06-25T06:34:06+02:00",
+ "slutresultat": {
+  "antal_sokande": 2,
+  "kodagar": 64,
+  "ts": "2026-06-25T06:34:06+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "6",

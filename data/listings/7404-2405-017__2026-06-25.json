@@ -1,0 +1,34 @@
+{
+ "adress": "Professorsslingan 25 / 1301",
+ "bildFiler": [
+  {
+   "fil": "media/images/bc79dd39070c2bc1904fdb30367d9a5682fa9bc4.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-06-29T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=724c305265735973353365766a68704b7047394376543464666f54704439525435335452342f7944516d413d",
+ "hiss": "Nej",
+ "hyra": "4 993",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+25+%2F+1301%2CStockholm",
+ "key": "7404-2405-017__2026-06-25",
+ "lat": 59.3693049,
+ "lon": 18.0653493,
+ "objektNr": "7404-2405-017",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7404-2405-017.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7404-2405-017",
+ "publiceratDatum": "2026-06-25",
+ "publiceringstexter": "",
+ "sistSedd": "2026-06-25T10:34:11+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "3",
+ "yta": 18
+}
