@@ -10,6 +10,7 @@
    "text": "strix_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 5 personer, varav den med flest ködagar just nu har 1015 ködagar.",
  "deadline": "2026-06-29T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=53577067746e464f5a5431735539626f6f34384a513261334a4e65346a51526453564b33307079496473343d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-06-25",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktig att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information läs under <a href=\"https://sssb.se/nyheter/vi-renoverar-pa-strix/\">Vi renoverar på Strix</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-06-29T11:58:54+02:00",
+ "slutresultat": {
+  "antal_sokande": 5,
+  "kodagar": 1015,
+  "ts": "2026-06-29T15:58:33+02:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Bottenvåning",
