@@ -1,4 +1,12 @@
 {
+ "Amanuensvägen 1, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3706655,
+  "lon": 18.0605508
+ },
+ "Amanuensvägen 10, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3699613,
+  "lon": 18.0635715
+ },
  "Amanuensvägen 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3698933,
   "lon": 18.0641258
@@ -18,6 +26,14 @@
  "Amanuensvägen 6, Stockholm, Stockholm, Sweden": {
   "lat": 59.3702096,
   "lon": 18.0619704
+ },
+ "Amanuensvägen 8, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3701448,
+  "lon": 18.062529
+ },
+ "Apelbergsgatan 54, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3351568,
+  "lon": 18.059716
  },
  "Armégatan 32 A, Solna, Stockholm, Sweden": {
   "lat": 59.3500713,
@@ -82,6 +98,10 @@
  "Forskarbacken 7, Stockholm, Stockholm, Sweden": {
   "lat": 59.3712267,
   "lon": 18.0604771
+ },
+ "Forskarbacken 8, Stockholm, Stockholm, Sweden": {
+  "lat": 59.370638,
+  "lon": 18.0620702
  },
  "Forskarbacken 9, Stockholm, Stockholm, Sweden": {
   "lat": 59.3710945,
@@ -202,6 +222,10 @@
  "Maltgatan 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3028973,
   "lon": 18.0976565
+ },
+ "Maltgatan 4, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3033498,
+  "lon": 18.0982887
  },
  "Maltgatan 8, Stockholm, Stockholm, Sweden": {
   "lat": 59.3031214,

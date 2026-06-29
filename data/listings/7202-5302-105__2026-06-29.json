@@ -1,0 +1,58 @@
+{
+ "adress": "Professorsslingan 53 / 1205",
+ "bildFiler": [
+  {
+   "fil": "media/images/e99ab55c98b8e922e61bf093678349f1cd5b40aa.jpg",
+   "text": "Fasad träd"
+  },
+  {
+   "fil": "media/images/a91d15de8b5435ac92b37f0abe050bd26f9e2c55.jpg",
+   "text": "Utsikt"
+  },
+  {
+   "fil": "media/images/cbaeb9d6583593229b5180179357ebcbbc5542e6.jpg",
+   "text": "Kök"
+  },
+  {
+   "fil": "media/images/c323be10816d2606f49570bb6d95e886e7d4913d.jpg",
+   "text": "Garderober"
+  },
+  {
+   "fil": "media/images/252c961dd73e7c1fa9839d21e40936fe986d08d7.jpg",
+   "text": "Badrum"
+  },
+  {
+   "fil": "media/images/56c0b84094bd84b90686bcadade1ad1bf5816565.jpg",
+   "text": "Fasad"
+  },
+  {
+   "fil": "media/images/590afcbb05aba0b1951be8e58718192047051d6a.jpg",
+   "text": "Cyklar"
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-07-02T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4f4b4479736a7a4138563955443075514665526964782b433872306a4e576a483939746c7a7570334b37553d",
+ "hiss": "Ja",
+ "hyra": "8 342",
+ "inflyttningDatum": "2026-07-16",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+53+%2F+1205%2CStockholm",
+ "key": "7202-5302-105__2026-06-29",
+ "lat": 59.3695191,
+ "lon": 18.0632108,
+ "objektNr": "7202-5302-105",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7202-5302-105.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7202-5302-105",
+ "publiceratDatum": "2026-06-29",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\">Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning och ytfinish kan variera.<br /><br /> <h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-06-29T16:21:36+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "2",
+ "yta": 23
+}

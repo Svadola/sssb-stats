@@ -1,0 +1,34 @@
+{
+ "adress": "Apelbergsgatan 54 / 1203",
+ "bildFiler": [
+  {
+   "fil": "media/images/22ac50092db9aafc4f286893cc61d84fab11f7bd.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/0c3f434ec6344b385d5dc144bc88849e9d6293ab.jpg",
+   "text": "apeln_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-07-02T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=71456d676d5855542b4d4c7932623576646e7a5172384c615233673832785a636678636c675955425077453d",
+ "hiss": "Ja",
+ "hyra": "9 390",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Apelbergsgatan+54+%2F+1203%2CStockholm",
+ "key": "3213-6704-008__2026-06-29",
+ "lat": 59.3351568,
+ "lon": 18.059716,
+ "objektNr": "3213-6704-008",
+ "omrade": "Apeln",
+ "omradeKod": "Apeln",
+ "planlosningFil": "media/floorplans/3213-6704-008.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3213-6704-008",
+ "publiceratDatum": "2026-06-29",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/renovering-pa-apeln/\">Renovering på Apeln</a> and <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-06-29T16:21:36+02:00",
+ "typ": "2 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "2",
+ "yta": 46
+}
