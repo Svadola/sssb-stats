@@ -1,0 +1,62 @@
+{
+ "adress": "Understensvägen 10 / 1004",
+ "bildFiler": [
+  {
+   "fil": "media/images/a0d508e00686529e9baf1454deba9dd1cbd48313.jpg",
+   "text": "Loftgång"
+  },
+  {
+   "fil": "media/images/92bc55a8353886bf316cde171914bb2ffd574fa0.jpg",
+   "text": "Kök"
+  },
+  {
+   "fil": "media/images/c5cfec3f2180cb3d18b039c7af559ea111f595b5.jpg",
+   "text": "Badrum"
+  },
+  {
+   "fil": "media/images/02b14419023066f79d1744dd88568aee8bba785a.jpg",
+   "text": "Rum"
+  },
+  {
+   "fil": "media/images/1b2ff723dc586a05ace3d4674b7c063010786834.jpg",
+   "text": "Balkong"
+  },
+  {
+   "fil": "media/images/eb76c69ce47ce36a2e5d60a55512797db1e93616.jpg",
+   "text": "Hall"
+  },
+  {
+   "fil": "media/images/32041752db3536d2dbe5180894dff457d96ef006.jpg",
+   "text": "Översikt"
+  },
+  {
+   "fil": "media/images/766d2340530f3e37b291ed0f0050898cfc0b1dfb.jpg",
+   "text": "Fasad träd"
+  },
+  {
+   "fil": "media/images/91b6d86792f8c15a20ee48b3013ebb3d6f4fcf89.jpg",
+   "text": null
+  }
+ ],
+ "deadline": "2026-07-06T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6c4a6c5a5938696f73544d332b5959767a6b614563544e6945474154785531717743376b4f734135544d343d",
+ "hiss": "Ja",
+ "hyra": "12 346",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Understensv%C3%A4gen+10%C2%A0%2F+1004%2CJohanneshov",
+ "key": "4804-1001-1004__2026-07-02",
+ "lat": 59.2885424,
+ "lon": 18.1201346,
+ "objektNr": "4804-1001-1004",
+ "omrade": "Birka",
+ "omradeKod": "Birka",
+ "planlosningFil": "media/floorplans/4804-1001-1004.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=4804-1001-1004",
+ "publiceratDatum": "2026-07-02",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-07-02T10:26:26+02:00",
+ "typ": "2 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "Bottenvåning",
+ "yta": 45
+}

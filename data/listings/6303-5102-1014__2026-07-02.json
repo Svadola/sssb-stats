@@ -1,0 +1,54 @@
+{
+ "adress": "Kungshamra 51 / 1014",
+ "bildFiler": [
+  {
+   "fil": "media/images/0020593c89cdf882755cecdbc54dfa703a95279c.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/41d7300c03b23a759dedc29489b301d8768e2cc1.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/f511366ae039009d5bd8755e533eb90ff3d5cde0.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/799e6a16eaf645c3203b180b57e36334ac042516.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/53f454037ae99bd8228bfcd9fbd88a7391051de4.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/38d17e2372f2676a8357262bc570478aaa7cd63d.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-07-06T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=2b487648616839733246733654374556446c5339674d5a71515530372b787a482b3136676130682b714b673d",
+ "hiss": "Nej",
+ "hyra": "7 218",
+ "inflyttningDatum": "2026-07-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+51+%2F+1014%2CSolna",
+ "key": "6303-5102-1014__2026-07-02",
+ "lat": 59.3819394,
+ "lon": 18.0251405,
+ "objektNr": "6303-5102-1014",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6303-5102-1014.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6303-5102-1014",
+ "publiceratDatum": "2026-07-02",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Nyrenoverad bostad</h4>Den här bostaden är nyrenoverad och du blir den första hyresgästen efter renoveringen.<br /><br /> Se <a href=\"https://www.youtube.com/shorts/8xd8p9PTVao\" target=\"_blank\" rel=\"noopener\">en videovisning av en liknande bostad</a>. Observera att skillnader i planlösning kan förekomma. <br /><br /> <h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a> <br /><br /><h4>Vi renoverar på Kungshamra</h4>Vi utvecklar området vidare med planerade arbeten på gården och intilliggande fastigheter, se mer information under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a>.</div>\n",
+ "sistSedd": "2026-07-02T10:26:26+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 18
+}

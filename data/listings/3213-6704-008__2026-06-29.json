@@ -10,6 +10,7 @@
    "text": "apeln_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 12 personer, varav den med flest ködagar just nu har 1022 ködagar.",
  "deadline": "2026-07-02T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=71456d676d5855542b4d4c7932623576646e7a5172384c615233673832785a636678636c675955425077453d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-06-29",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/renovering-pa-apeln/\">Renovering på Apeln</a> and <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-07-02T07:09:34+02:00",
+ "slutresultat": {
+  "antal_sokande": 13,
+  "kodagar": 1498,
+  "ts": "2026-07-02T07:09:34+02:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "2",

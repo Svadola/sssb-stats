@@ -1,0 +1,50 @@
+{
+ "adress": "Simrishamnsvägen 15 / 1003",
+ "bildFiler": [
+  {
+   "fil": "media/images/cdeee2bec766cc02c19d86e09543e5bae3dcd6eb.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/ac8782d9a459a2b61889c1f4a43abe0b655b78b8.jpg",
+   "text": "Fasad"
+  },
+  {
+   "fil": "media/images/2ccf7ab4f00cc02b623884dbaf6f8d9aa6225241.jpg",
+   "text": "Utsikt"
+  },
+  {
+   "fil": "media/images/67a96cbedd6b5b1e8a6b94e413cb4c991f2dd703.jpg",
+   "text": "Kök"
+  },
+  {
+   "fil": "media/images/66d69bcaa2cf7c0681bc8242bc336548eecd10ad.jpg",
+   "text": "Cyklar"
+  },
+  {
+   "fil": "media/images/91b6d86792f8c15a20ee48b3013ebb3d6f4fcf89.jpg",
+   "text": null
+  }
+ ],
+ "deadline": "2026-07-06T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4f4f4859506e4f476c472f4131746d4a354350344a364c6a426b72796c6d52612b3841585a646d387647453d",
+ "hiss": "Ja",
+ "hyra": "8 626",
+ "inflyttningDatum": "2026-07-16",
+ "kartURL": "https://maps.google.se/?q=Simrishamnsv%C3%A4gen+15+%2F+1003%2CJohanneshov",
+ "key": "4703-1501-1003__2026-07-02",
+ "lat": 59.2888958,
+ "lon": 18.1186798,
+ "objektNr": "4703-1501-1003",
+ "omrade": "Birka",
+ "omradeKod": "Birka",
+ "planlosningFil": "media/floorplans/4703-1501-1003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=4703-1501-1003",
+ "publiceratDatum": "2026-07-02",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-07-02T10:26:26+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 25
+}
