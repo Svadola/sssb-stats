@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 4 personer, varav den med flest ködagar just nu har 1803 ködagar.",
  "deadline": "2026-07-09T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=326f4a58386549763551635533346d6174737258346e38427a32324c6464354b65514f382b6e50314542303d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-06",
  "publiceringstexter": "",
  "sistSedd": "2026-07-09T09:53:04+02:00",
+ "slutresultat": {
+  "antal_sokande": 4,
+  "kodagar": 1803,
+  "ts": "2026-07-09T09:53:04+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "1",

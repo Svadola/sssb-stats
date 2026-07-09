@@ -26,6 +26,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 3 personer, varav den med flest ködagar just nu har 386 ködagar.",
  "deadline": "2026-07-09T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=2b2f7876734e62474e6a4869444b6570746f616c704d3156785262774b5478636555624976335a4d6f55673d",
  "hiss": "Nej",
@@ -43,6 +44,11 @@
  "publiceratDatum": "2026-07-06",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Bo i en nyrenoverad studentetta med smarta, hållbara lösningar och få 5 % rabatt på hyran.</h4>Vi följer upp konceptet under boendetiden och kan vid behov kontakta dig eller boka in besök i lägenheten. Bostaden är bland annat utrustad med funktioner som stödjer en mer hållbar användning av vatten. Rabatten är redan avdragen i hyran som visas i den här annonsen. <br /><br /> I samband med signering av hyresavtalet behöver du signera ett dokument om särskilda bestämmelser där du godkänner hyresvärdens uppföljning av funktionerna samt tillträde till bostaden under boendetiden.<br /><br /><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /><h4>Vi renoverar på Kungshamra</h4>Vi utvecklar området vidare med planerade arbeten på gården och intilliggande fastigheter, se mer information under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a>.</div>\n",
  "sistSedd": "2026-07-09T09:53:04+02:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 386,
+  "ts": "2026-07-09T09:53:04+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "3",

@@ -1,0 +1,34 @@
+{
+ "adress": "Armégatan 32 A / 1410",
+ "bildFiler": [
+  {
+   "fil": "media/images/cd0bee3f34c74f0f8277a7aa904435d54ff03a09.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/09b700fe1cb244c91509cd00385c75c8157cbf57.jpg",
+   "text": "strix_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-07-13T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=64506c72587773397851653368526e7931414d6841526d73644c633235595049625a7a63303853366a78303d",
+ "hiss": "Ja",
+ "hyra": "3 622",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Arm%C3%A9gatan+32+A+%2F+1410%2CSolna",
+ "key": "5102-3206-028__2026-07-09",
+ "lat": 59.3500713,
+ "lon": 18.0027516,
+ "objektNr": "5102-3206-028",
+ "omrade": "Strix",
+ "omradeKod": "STRIX",
+ "planlosningFil": "media/floorplans/5102-3206-028.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5102-3206-028",
+ "publiceratDatum": "2026-07-09",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\" https://sssb.se/nyheter/vi-renoverar-pa-strix/”>Vi renoverar på Strix</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-07-09T13:20:11+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "4",
+ "yta": 16
+}
