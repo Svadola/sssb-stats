@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 6 / 1209",
+ "bildFiler": [
+  {
+   "fil": "media/images/e5721fc728c6e99a93bb599cf4b5fe50b63c3b62.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-07-16T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=45435a3857455832494a7635574665746e773945346b7a4168623366696a7251674748467958746a446b553d",
+ "hiss": "Nej",
+ "hyra": "4 759",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+6+%2F+1209%2CStockholm",
+ "key": "7707-1103-011__2026-07-13",
+ "lat": 59.3706732,
+ "lon": 18.0619067,
+ "objektNr": "7707-1103-011",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7707-1103-011.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7707-1103-011",
+ "publiceratDatum": "2026-07-13",
+ "publiceringstexter": "",
+ "sistSedd": "2026-07-13T17:12:41+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "2",
+ "yta": 18
+}

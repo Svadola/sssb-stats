@@ -10,6 +10,7 @@
    "text": "hugin_munin_zoom_in_2_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 15 personer, varav den med flest ködagar just nu har 936 ködagar.",
  "deadline": "2026-07-13T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=56574c533145576e385a444432773934763656327965714c7a79466f634c72377637505470657541614a773d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-09",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-3/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext FT WEBBFTPU\">Med reservation för avvikelser avseende mått och fast inredning i bostaden.</div>\n",
  "sistSedd": "2026-07-13T13:28:14+02:00",
+ "slutresultat": {
+  "antal_sokande": 13,
+  "kodagar": 695,
+  "ts": "2026-07-13T13:28:14+02:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "6",

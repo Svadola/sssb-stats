@@ -79,6 +79,10 @@
   "lat": 59.3704854,
   "lon": 18.0630648
  },
+ "Forskarbacken 11, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3709958,
+  "lon": 18.0619005
+ },
  "Forskarbacken 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3703979,
   "lon": 18.0636031
@@ -106,6 +110,10 @@
  "Forskarbacken 4, Stockholm, Stockholm, Sweden": {
   "lat": 59.370817,
   "lon": 18.0613778
+ },
+ "Forskarbacken 5, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3713505,
+  "lon": 18.059711
  },
  "Forskarbacken 6, Stockholm, Stockholm, Sweden": {
   "lat": 59.3706732,
@@ -196,6 +204,10 @@
   "lon": 18.0251405
  },
  "Kungshamra 55 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
+ "Kungshamra 62 A, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
  },
@@ -306,6 +318,10 @@
  "Professorsslingan 35, Stockholm, Stockholm, Sweden": {
   "lat": 59.3699083,
   "lon": 18.065561
+ },
+ "Professorsslingan 39, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3704449,
+  "lon": 18.0656968
  },
  "Professorsslingan 41, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704685,
