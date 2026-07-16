@@ -1,0 +1,34 @@
+{
+ "adress": "Amanuensvägen 8 / 1210",
+ "bildFiler": [
+  {
+   "fil": "media/images/b1a48e76c29fe5cda1b6c92d57ce48e6d1d201eb.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-07-20T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=336e39556c514e30736864554344554f42576b534f4a5179476b3252343333665038796b566b437474454d3d",
+ "hiss": "Nej",
+ "hyra": "5 076",
+ "inflyttningDatum": "2026-08-01",
+ "kartURL": "https://maps.google.se/?q=Amanuensv%C3%A4gen+8+%2F+1210%2CStockholm",
+ "key": "7505-1904-011__2026-07-16",
+ "lat": 59.3701448,
+ "lon": 18.062529,
+ "objektNr": "7505-1904-011",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7505-1904-011.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7505-1904-011",
+ "publiceratDatum": "2026-07-16",
+ "publiceringstexter": "",
+ "sistSedd": "2026-07-16T11:30:01+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "3",
+ "yta": 21
+}
