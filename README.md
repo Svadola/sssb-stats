@@ -3,7 +3,10 @@
 Automatiskt insamlad statistik över hur många ködagar som krävs för [SSSB:s](https://sssb.se)
 studentbostäder — något SSSB själva inte publicerar.
 
-**Dashboard: https://svadola.github.io/sssb-stats/** — tabell, filter, karta och månadsstatistik.
+**Dashboard: https://svadola.github.io/sssb-stats/** — tabell, filter, karta och en planerare:
+avgjorda annonser grupperas i segment (område · typ · yta, där lägenheterna är likvärdiga) med
+median-ködagar per deadline-månad, och anger du dina egna ködagar visas när de räcker för varje
+segment — t.ex. "korridorrum nu, eller Lappis-etta i januari".
 Sidan serveras med GitHub Pages direkt från `docs/`-mappen i detta repo och uppdateras
 automatiskt vid varje data-commit.
 

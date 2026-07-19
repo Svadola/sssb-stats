@@ -70,9 +70,21 @@
     </div>
   </section>
 
-  <section class="season">
-    <h2>Ködagar per månad <span class="h2-note">median av avgjorda med deadline i månaden · följer filtren</span></h2>
-    <div id="season-chart"></div>
+  <section class="planera">
+    <h2>Vad räcker dina ködagar till? <span class="h2-note">avgjorda annonser per segment (område · typ · yta) och deadline-månad · följer filtren</span></h2>
+    <div class="planera-controls">
+      <label>Mina ködagar <input type="number" id="mina-dagar" min="0" placeholder="t.ex. 240"></label>
+      <span class="planera-sep">eller i kön sedan</span>
+      <input type="date" id="ko-start" aria-label="Datum du ställde dig i kön">
+    </div>
+    <div class="matrix-wrap" id="segment-matrix-wrap"></div>
+    <p class="planera-not">Varje cell visar <b>median-ködagar</b> för ledande sökande vid bokningsdeadline;
+      det lilla talet är antalet avgjorda annonser. Lägenheter inom ett segment är i regel likvärdiga,
+      så cellerna är jämförbara månad för månad. <b>För dig</b> utgår från att dina ködagar växer med en
+      per dag och visar första månaden då de når segmentets typiska tröskel — kalendermånadens median där
+      data finns, annars segmentets samlade median. <i>Chans</i> = när du når det lägsta värde som
+      observerats räcka. Insamlingen startade i juni 2026 och sommaren är lågsäsong — räkna med att
+      höst­trösklarna är högre tills ett helt år av data finns.</p>
   </section>
 
   <section class="ledger">

@@ -10,6 +10,8 @@ const state = {
   omraden: [],             // tom = alla
   ytaMin: null, ytaMax: null,
   hyraMin: null, hyraMax: null,
+  dagar: null,             // användarens ködagar (planeraren)
+  visaAllaSegment: false,
   sort: { key: "kodagar", dir: "desc" },
 };
 
@@ -46,6 +48,11 @@ const LEGEND_STEPS = [
   ["365–729", "#c45a1f"], ["≥ 730", "#b5371f"],
 ];
 
+function dayTint(d, alpha = 0.16) {
+  const n = parseInt(dayColor(d).slice(1), 16);
+  return `rgba(${n >> 16}, ${(n >> 8) & 255}, ${n & 255}, ${alpha})`;
+}
+
 const MONTHS = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
 
 function fmtDeadline(iso) {
@@ -73,14 +80,18 @@ function loadState() {
 
 /* ————— filtrering ————— */
 
-function passesNonArea(r) {
-  if (state.status !== "alla" && r.status !== state.status) return false;
+function passesFysisk(r) {
   if (state.typer.length && !state.typer.includes(r.typGrupp)) return false;
   if (state.ytaMin != null && (r.yta == null || r.yta < state.ytaMin)) return false;
   if (state.ytaMax != null && (r.yta == null || r.yta > state.ytaMax)) return false;
   if (state.hyraMin != null && (r.hyraNum == null || r.hyraNum < state.hyraMin)) return false;
   if (state.hyraMax != null && (r.hyraNum == null || r.hyraNum > state.hyraMax)) return false;
   return true;
+}
+
+function passesNonArea(r) {
+  if (state.status !== "alla" && r.status !== state.status) return false;
+  return passesFysisk(r);
 }
 
 function passesAll(r) {
@@ -94,7 +105,7 @@ function render() {
   sortRows(visible);
   renderTable(visible);
   renderSummary();
-  renderSeason();
+  renderPlanera();
   renderMap();
   renderHeadline();
   renderControls();
@@ -259,36 +270,169 @@ function renderMap() {
   }
 }
 
-function renderSeason() {
-  const closed = rows.filter((r) =>
-    passesAll(r) && r.status === "stangd" && r.kodagar != null && r.deadline);
-  const el = $("#season-chart");
+/* ————— planeraren: segment × månad ————— */
+
+const SEGMENT_LIMIT = 14;
+
+function closedForStats() {
+  // Statusfiltret gäller inte här — segmentstatistiken bygger per definition på avgjorda.
+  return rows.filter((r) =>
+    r.status === "stangd" && r.kodagar != null && r.deadline &&
+    passesFysisk(r) && (!state.omraden.length || state.omraden.includes(r.omrade)));
+}
+
+function segmentStats(closed) {
+  const byKey = new Map();
+  for (const r of closed) {
+    const key = `${r.omrade}|${r.typ}|${r.yta}`;
+    let s = byKey.get(key);
+    if (!s) byKey.set(key, s = {
+      omrade: r.omrade, typ: r.typ, yta: r.yta,
+      all: [], hyror: [], perMonth: new Map(),
+    });
+    s.all.push(r.kodagar);
+    if (r.hyraNum != null) s.hyror.push(r.hyraNum);
+    const m = r.deadline.slice(0, 7);
+    if (!s.perMonth.has(m)) s.perMonth.set(m, []);
+    s.perMonth.get(m).push(r.kodagar);
+  }
+  return [...byKey.values()];
+}
+
+function monthThresholds(seg) {
+  // Tröskel per kalendermånad: månadens median (över alla år) om ≥3 obs, annars helhetsmedianen.
+  const overall = median(seg.all);
+  const byCal = Array.from({ length: 12 }, () => []);
+  for (const [m, list] of seg.perMonth) byCal[+m.slice(5, 7) - 1].push(...list);
+  return {
+    overall,
+    perCal: byCal.map((obs) => (obs.length >= 3 ? median(obs) : overall)),
+    min: Math.min(...seg.all),
+  };
+}
+
+function attainable(dagar, th, calByAdd) {
+  // Första dag framåt då dagar + väntetid ≥ tröskeln för den dagens kalendermånad.
+  for (let add = 0; add < calByAdd.length; add++) {
+    if (dagar + add >= th.perCal[calByAdd[add]]) return { add, datum: dateAdd(add) };
+  }
+  return { add: th.overall - dagar, datum: null };
+}
+
+function dateAdd(days) {
+  const d = new Date();
+  d.setDate(d.getDate() + days);
+  return d;
+}
+
+function fmtYm(ym) {
+  const [y, m] = ym.split("-");
+  return `${MONTHS[+m - 1]} ’${y.slice(2)}`;
+}
+
+function fmtDatumKort(d) {
+  return `${MONTHS[d.getMonth()]} ’${String(d.getFullYear()).slice(2)}`;
+}
+
+function fmtUtbud(perManad) {
+  const v = perManad >= 10 ? Math.round(perManad) : Math.round(perManad * 10) / 10;
+  return `${v.toLocaleString("sv-SE")}/mån`;
+}
+
+function monthCells(perMonth, months) {
+  return months.map((m) => {
+    const list = perMonth.get(m);
+    if (!list) return '<td class="num mcell mcell-empty">·</td>';
+    const v = [...list].sort((a, b) => a - b);
+    const md = median(v);
+    return `<td class="num mcell" style="background:${dayTint(md)}"
+      title="${fmtYm(m)} · ${v.length} avgjorda · min ${v[0]} · median ${md} · max ${v[v.length - 1]}">${md}<small>${v.length}</small></td>`;
+  }).join("");
+}
+
+function fordigCell(s) {
+  const D = state.dagar;
+  if (D == null) return '<td class="num fordig-sticky mcell-empty">–</td>';
+  const { add, datum } = s.plan;
+  const chansAdd = Math.max(0, s.th.min - D);
+  let main, cls = "";
+  if (add <= 0) { main = "Nu"; cls = " fordig-nu"; }
+  else if (!datum) main = `om ~${Math.max(1, Math.round(add / 365))} år`;
+  else main = fmtDatumKort(datum);
+  const sub = add > 0 && chansAdd < add
+    ? `<small>chans ${chansAdd <= 0 ? "nu" : fmtDatumKort(dateAdd(chansAdd))}</small>` : "";
+  const title = `Typisk tröskel ${s.th.overall} ködagar, lägsta observerade ${s.th.min}. ` +
+    (add <= 0 ? `Dina ${D} dagar räcker redan.` : `Dina ${D} dagar når tröskeln om ${add} dagar.`);
+  return `<td class="num fordig-sticky${cls}" title="${escapeHtml(title)}"><b>${main}</b>${sub}</td>`;
+}
+
+function renderPlanera() {
+  const wrap = $("#segment-matrix-wrap");
+  const closed = closedForStats();
   if (!closed.length) {
-    el.innerHTML = '<p class="season-empty">Inga avgjorda annonser matchar filtren än — vyn fylls på i takt med att bokningsdeadlines passerar.</p>';
+    wrap.innerHTML = '<p class="planera-empty">Inga avgjorda annonser matchar filtren än — vyn fylls på i takt med att bokningsdeadlines passerar.</p>';
     return;
   }
-  const byMonth = new Map();
+  const months = [...new Set(closed.map((r) => r.deadline.slice(0, 7)))].sort();
+  const segs = segmentStats(closed);
+
+  const calByAdd = [];
+  { const d = new Date(); for (let i = 0; i <= 1200; i++) { calByAdd.push(d.getMonth()); d.setDate(d.getDate() + 1); } }
+  for (const s of segs) {
+    s.n = s.all.length;
+    s.th = monthThresholds(s);
+    s.plan = state.dagar != null ? attainable(state.dagar, s.th, calByAdd) : null;
+  }
+  // Robusta segment (≥5 obs) före tunna, så att brusiga en-annons-segment inte tar toppen.
+  const tunnhet = (s) => (s.n < 5 ? 1 : 0);
+  segs.sort((a, b) => tunnhet(a) - tunnhet(b) ||
+    (state.dagar != null ? (a.plan.add - b.plan.add || b.n - a.n) : b.n - a.n));
+  const shown = state.visaAllaSegment ? segs : segs.slice(0, SEGMENT_LIMIT);
+
+  const head = `<tr>
+    <th class="seg-name seg-sticky">Segment</th>
+    <th class="num">Hyra</th>
+    <th class="num" title="Avgjorda annonser per månad, snitt över insamlingsperioden">Utbud</th>
+    ${months.map((m) => `<th class="num">${fmtYm(m)}</th>`).join("")}
+    <th class="num fordig-sticky">För dig</th></tr>`;
+
+  const body = shown.map((s) => {
+    const hyra = median(s.hyror);
+    const tunn = s.n < 5;
+    return `<tr${tunn ? ' class="seg-tunn" title="Få observationer — osäker statistik"' : ""}>
+      <td class="seg-name seg-sticky"><b>${escapeHtml(s.omrade)}</b>
+        <span class="seg-typ">${escapeHtml(s.typ)} · ${s.yta} m²${tunn ? " · få obs" : ""}</span></td>
+      <td class="num">${hyra != null ? hyra.toLocaleString("sv-SE") : "–"}</td>
+      <td class="num">${fmtUtbud(s.n / months.length)}</td>
+      ${monthCells(s.perMonth, months)}
+      ${fordigCell(s)}</tr>`;
+  }).join("");
+
+  // Summarad med gamla månadsvyns blandade siffra — jämförbar bara inom sig själv.
+  const mixPerMonth = new Map();
   for (const r of closed) {
     const m = r.deadline.slice(0, 7);
-    if (!byMonth.has(m)) byMonth.set(m, []);
-    byMonth.get(m).push(r.kodagar);
+    if (!mixPerMonth.has(m)) mixPerMonth.set(m, []);
+    mixPerMonth.get(m).push(r.kodagar);
   }
-  const months = [...byMonth.entries()]
-    .map(([m, list]) => ({ m, median: median(list), antal: list.length }))
-    .sort((a, b) => a.m.localeCompare(b.m));
-  const maxMedian = Math.max(...months.map((s) => s.median), 1);
-  el.innerHTML = months.map((s) => {
-    const [y, mm] = s.m.split("-");
-    const label = `${MONTHS[+mm - 1]} ${y}`;
-    return `<div class="season-row">
-      <span class="season-label">${label}</span>
-      <span class="season-bar-track">
-        <span class="season-bar" style="width:${(s.median / maxMedian) * 100}%;background:${dayColor(s.median)}"></span>
-      </span>
-      <span class="season-value">${s.median}</span>
-      <span class="season-n">${s.antal} st</span>
-    </div>`;
-  }).join("");
+  const mixRow = `<tr class="seg-mix">
+    <td class="seg-name seg-sticky"><b>Alla matchande</b><span class="seg-typ">blandade segment</span></td>
+    <td class="num">–</td>
+    <td class="num">${fmtUtbud(closed.length / months.length)}</td>
+    ${monthCells(mixPerMonth, months)}
+    <td class="num fordig-sticky mcell-empty">–</td></tr>`;
+
+  const toggle = segs.length > SEGMENT_LIMIT
+    ? `<button id="seg-toggle" class="chip">${state.visaAllaSegment ? "Visa färre" : `Visa alla ${segs.length} segment`}</button>` : "";
+  const legend = `<div class="matrix-legend">Cellfärg = median ködagar:${LEGEND_STEPS.map(([label, c]) =>
+    `<span class="dot" style="background:${c}"></span>${label}`).join("")}</div>`;
+
+  wrap.innerHTML = `<table id="segment-matrix">
+      <thead>${head}</thead><tbody>${body}${mixRow}</tbody></table>
+    <div class="matrix-foot">${toggle}${legend}</div>`;
+
+  const btn = $("#seg-toggle");
+  if (btn) btn.addEventListener("click", () => { state.visaAllaSegment = !state.visaAllaSegment; render(); });
 }
 
 function renderHeadline() {
@@ -353,6 +497,29 @@ function buildControls() {
   };
   bindRange("#yta-min", "ytaMin"); bindRange("#yta-max", "ytaMax");
   bindRange("#hyra-min", "hyraMin"); bindRange("#hyra-max", "hyraMax");
+
+  const dagarInput = $("#mina-dagar"), startInput = $("#ko-start");
+  const isoDaysAgo = (n) => {
+    const t = dateAdd(-n);
+    return `${t.getFullYear()}-${String(t.getMonth() + 1).padStart(2, "0")}-${String(t.getDate()).padStart(2, "0")}`;
+  };
+  if (state.dagar != null) {
+    dagarInput.value = state.dagar;
+    startInput.value = isoDaysAgo(state.dagar);
+  }
+  dagarInput.addEventListener("input", () => {
+    const v = dagarInput.value;
+    state.dagar = v === "" ? null : Math.max(0, Math.floor(+v) || 0);
+    startInput.value = state.dagar == null ? "" : isoDaysAgo(state.dagar);
+    render();
+  });
+  startInput.addEventListener("change", () => {
+    if (!startInput.value) { dagarInput.value = ""; state.dagar = null; render(); return; }
+    const diff = Math.round((Date.now() - new Date(startInput.value + "T00:00").getTime()) / 86400000);
+    state.dagar = Math.max(0, diff);
+    dagarInput.value = state.dagar;
+    render();
+  });
 
   document.querySelectorAll("th.sortable").forEach((th) =>
     th.addEventListener("click", () => {
