@@ -23,6 +23,10 @@
   "lat": 59.3702466,
   "lon": 18.0626227
  },
+ "Amanuensvägen 4, Stockholm, Stockholm, Sweden": {
+  "lat": 59.370291,
+  "lon": 18.0614723
+ },
  "Amanuensvägen 5, Stockholm, Stockholm, Sweden": {
   "lat": 59.3700586,
   "lon": 18.0636884
@@ -162,6 +166,10 @@
  "Kungshamra 11, Solna, Stockholm, Sweden": {
   "lat": 59.3811785,
   "lon": 18.0224737
+ },
+ "Kungshamra 13 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
  },
  "Kungshamra 15 B, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
@@ -323,6 +331,10 @@
   "lat": 59.3694542,
   "lon": 18.0644653
  },
+ "Professorsslingan 21, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3694266,
+  "lon": 18.0645923
+ },
  "Professorsslingan 23, Stockholm, Stockholm, Sweden": {
   "lat": 59.3693335,
   "lon": 18.0652475
@@ -335,6 +347,10 @@
   "lat": 59.3699083,
   "lon": 18.065561
  },
+ "Professorsslingan 37, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3700908,
+  "lon": 18.0654582
+ },
  "Professorsslingan 39, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704449,
   "lon": 18.0656968
@@ -346,6 +362,10 @@
  "Professorsslingan 43, Stockholm, Stockholm, Sweden": {
   "lat": 59.3703427,
   "lon": 18.0666605
+ },
+ "Professorsslingan 45, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3702291,
+  "lon": 18.0667475
  },
  "Professorsslingan 47, Stockholm, Stockholm, Sweden": {
   "lat": 59.3695191,
@@ -402,6 +422,10 @@
  "Studentbacken 25, Stockholm, Stockholm, Sweden": {
   "lat": 59.34882,
   "lon": 18.0961543
+ },
+ "Studentbacken 27, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3490916,
+  "lon": 18.0962217
  },
  "Understensvägen 10, Johanneshov, Stockholm, Sweden": {
   "lat": 59.2885424,

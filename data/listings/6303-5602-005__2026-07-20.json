@@ -6,6 +6,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 11 personer, varav den med flest ködagar just nu har 678 ködagar.",
  "deadline": "2026-07-23T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6a707633767a336454342f62774a513153356e5951674f6b4d63457750614e30525a4446523477485674553d",
  "hiss": "Nej",
@@ -23,6 +24,11 @@
  "publiceratDatum": "2026-07-20",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell elmätning</h4>Det är individuell elmätning i bostaden. Detta innebär att du betalar en schablon för el som sedan avräknas mot faktisk användning. Schablonen är medräknad i den totala hyran som visas. Det tillkommer 25% moms på schablonen för el vid avisering av hyran.</div>\n",
  "sistSedd": "2026-07-23T08:39:49+02:00",
+ "slutresultat": {
+  "antal_sokande": 10,
+  "kodagar": 663,
+  "ts": "2026-07-23T08:39:49+02:00"
+ },
  "typ": "3 rum & pentry",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Bottenvåning",

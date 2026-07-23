@@ -10,6 +10,7 @@
    "text": "forum_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 321 ködagar.",
  "deadline": "2026-07-23T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=56442b4649613165454f576e354f674d63453668552b6c6f4661656e4259364e336d7744353652736639343d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-20",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Important to read before booking this accommodation</h4>In this accommodation you can live a maximum of 4 years. You need to sign a waiver of security of tenure in connection with the signing of this rental agreement. For more information, read under <a href=\"https://www.sssb.se/en/nyheter/contract-signing-and-security-of-tenure/\">Contract signing and security of tenure</a> and <a href=\"https://sssb.se/en/our-types-of-rental-agreements/\">Our types of rental agreements</a>. The project is tentatively set in the beginning of 2026.</div>\n",
  "sistSedd": "2026-07-23T08:39:49+02:00",
+ "slutresultat": {
+  "antal_sokande": 3,
+  "kodagar": 1095,
+  "ts": "2026-07-23T08:39:49+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "1",

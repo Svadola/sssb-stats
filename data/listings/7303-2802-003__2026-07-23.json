@@ -1,0 +1,34 @@
+{
+ "adress": "Professorsslingan 37 / 1103",
+ "bildFiler": [
+  {
+   "fil": "media/images/689ad032b202906e415b6ca18310d4e7b967fc87.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-07-27T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=442f7955705739536b4f58792f346a4c734145453034612f5744675276752b67334e4a7330442f326848513d",
+ "hiss": "Ja",
+ "hyra": "10 296",
+ "inflyttningDatum": "2026-08-16",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+37+%2F+1103%2CStockholm",
+ "key": "7303-2802-003__2026-07-23",
+ "lat": 59.3700908,
+ "lon": 18.0654582,
+ "objektNr": "7303-2802-003",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7303-2802-003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7303-2802-003",
+ "publiceratDatum": "2026-07-23",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av el</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-07-23T11:36:42+02:00",
+ "typ": "2 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "1",
+ "yta": 44
+}

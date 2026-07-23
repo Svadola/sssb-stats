@@ -10,6 +10,7 @@
    "text": "jerum_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 7 personer, varav den med flest ködagar just nu har 90 ködagar.",
  "deadline": "2026-07-23T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=5335675433422f5872364743704f757739676b457251426a3949396a4932387378736c6f2f6641666563513d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-20",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\">Bostaden ligger ovanpå musikövningsrum. Detta kan upplevas som störande.</div>\n",
  "sistSedd": "2026-07-23T08:39:49+02:00",
+ "slutresultat": {
+  "antal_sokande": 8,
+  "kodagar": 90,
+  "ts": "2026-07-23T08:39:49+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "Bottenvåning",

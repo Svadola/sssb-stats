@@ -10,6 +10,7 @@
    "text": "pax_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 4 personer, varav den med flest ködagar just nu har 89 ködagar.",
  "deadline": "2026-07-23T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=732f6866325a514556523745484344524355354c663152543341677652566e352f51664278582f736665343d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-20",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktigt att ta del av innan du bokar</h4>Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information, läs under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-2/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera att</strong> i detta boende ingår det köksutrustning så som tallrikar, bestick, glas, kastruller, stekpannor och annat du behöver för att laga mat som du hittar i gemensamhetsköket.</div>\n",
  "sistSedd": "2026-07-23T08:39:49+02:00",
+ "slutresultat": {
+  "antal_sokande": 5,
+  "kodagar": 98,
+  "ts": "2026-07-23T08:39:49+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "1",
