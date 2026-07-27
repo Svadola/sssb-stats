@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 14 personer, varav den med flest ködagar just nu har 978 ködagar.",
  "deadline": "2026-07-27T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=70434467536335777a54453664574a436a676953794531624264345250424b32314f45726250366d6d2f733d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-23",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av el</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
  "sistSedd": "2026-07-27T13:38:21+02:00",
+ "slutresultat": {
+  "antal_sokande": 12,
+  "kodagar": 709,
+  "ts": "2026-07-27T13:38:21+02:00"
+ },
  "typ": "4 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Sutterängvåning",

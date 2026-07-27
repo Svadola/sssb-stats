@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 19 / 1504",
+ "bildFiler": [
+  {
+   "fil": "media/images/cf873218536bc177c18dcf45872fa45e946206ec.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-07-30T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=7a48452f6735443935762f30462b62456f2f5a4c766930307966314d79582b48466f6e736a446e38434e4d3d",
+ "hiss": "Ja",
+ "hyra": "4 454",
+ "inflyttningDatum": "2026-08-16",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+19+%2F+1504%2CStockholm",
+ "key": "7505-0807-005__2026-07-27",
+ "lat": 59.370638,
+ "lon": 18.0640244,
+ "objektNr": "7505-0807-005",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7505-0807-005.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7505-0807-005",
+ "publiceratDatum": "2026-07-27",
+ "publiceringstexter": "",
+ "sistSedd": "2026-07-27T19:11:05+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "5",
+ "yta": 18
+}

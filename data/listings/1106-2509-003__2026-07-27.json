@@ -1,0 +1,34 @@
+{
+ "adress": "Studentbacken 25 / 1716",
+ "bildFiler": [
+  {
+   "fil": "media/images/e34e98ea05dfc606cf98e4317a6a23ff3dc26fde.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/5d1075dce66e19f64bb372323fcb65f3f0d75c67.jpg",
+   "text": "jerum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-07-30T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=682b58675273707778474954594c626a5565593934647970754e6e3330794a6a4f7662716d6234365755773d",
+ "hiss": "Ja",
+ "hyra": "6 886",
+ "inflyttningDatum": "2026-08-16",
+ "kartURL": "https://maps.google.se/?q=Studentbacken+25+%2F+1716%2CStockholm",
+ "key": "1106-2509-003__2026-07-27",
+ "lat": 59.34882,
+ "lon": 18.0961543,
+ "objektNr": "1106-2509-003",
+ "omrade": "Jerum",
+ "omradeKod": "Jerum",
+ "planlosningFil": "media/floorplans/1106-2509-003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1106-2509-003",
+ "publiceratDatum": "2026-07-27",
+ "publiceringstexter": "",
+ "sistSedd": "2026-07-27T19:11:05+02:00",
+ "typ": "2 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "7",
+ "yta": 34
+}

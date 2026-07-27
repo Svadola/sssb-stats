@@ -1,0 +1,34 @@
+{
+ "adress": "Tantogatan 59 / 0903",
+ "bildFiler": [
+  {
+   "fil": "media/images/0a772badc61c5c30e2691141bd0172f771e0bd98.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/f4fb56ba7fa7940a8a614a4ff2a46e5d10a79711.jpg",
+   "text": "Tantogatan_2 ej wec 360"
+  }
+ ],
+ "deadline": "2026-07-30T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=49704666464b7662744f7653336d6c525352524e3468714c6c2f5a55544931386e552f49394f696e4a54383d",
+ "hiss": "Nej",
+ "hyra": "4 807",
+ "inflyttningDatum": "2026-08-16",
+ "kartURL": "https://maps.google.se/?q=Tantogatan+59+%2F+0903%2CStockholm",
+ "key": "8504-0100-0902__2026-07-27",
+ "lat": 59.3101897,
+ "lon": 18.0472409,
+ "objektNr": "8504-0100-0902",
+ "omrade": "Tanto",
+ "omradeKod": "Söderm",
+ "planlosningFil": "media/floorplans/8504-0100-0902.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=8504-0100-0902",
+ "publiceratDatum": "2026-07-27",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information för Tanto</h4>Fastigheten ägs ej av SSSB. För mer information och typritningar läs under <a href=\"https://www.sssb.se/tanto/\">Tanto</a>.</div>\n",
+ "sistSedd": "2026-07-27T19:11:05+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "Sutterängvåning",
+ "yta": 20.0
+}

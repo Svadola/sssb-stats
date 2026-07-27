@@ -1,0 +1,30 @@
+{
+ "adress": "Kammakargatan 36 A / 1102",
+ "bildFiler": [
+  {
+   "fil": "media/images/80593d269739889dd499bc12147ca8202308c167.jpg",
+   "text": "kurland_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-07-30T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=51586a565372626f566a726974797a4f2f3137574e39626c4873374b6956744b38696b79616e654c414d383d",
+ "hiss": "Ja",
+ "hyra": "4 602",
+ "inflyttningDatum": "2026-08-16",
+ "kartURL": "https://maps.google.se/?q=Kammakargatan+36+A+%2F+1102%2CStockholm",
+ "key": "3419-3603-007__2026-07-27",
+ "lat": 59.3381708,
+ "lon": 18.0582437,
+ "objektNr": "3419-3603-007",
+ "omrade": "Kurland",
+ "omradeKod": "Kurlan",
+ "planlosningFil": "media/floorplans/3419-3603-007.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3419-3603-007",
+ "publiceratDatum": "2026-07-27",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vid-avtalssignering-pa-kurland/\">Vid avtalssignering på Kurland</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Kollektivt boende</h4>\nSex hyresgäster har var sitt rum och delar kök, dusch och WC.</div>\n",
+ "sistSedd": "2026-07-27T19:11:05+02:00",
+ "typ": "Rum i kollektiv",
+ "typOvergripande": "Studentrum",
+ "vaning": "1",
+ "yta": 11
+}
