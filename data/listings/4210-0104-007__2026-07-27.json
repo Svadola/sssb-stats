@@ -10,6 +10,7 @@
    "text": "flemingsberg_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 16 personer, varav den med flest ködagar just nu har 865 ködagar.",
  "deadline": "2026-07-30T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=62716735724d4a394456553254516c7169374f684c764476772b6e3273422b36426946532b3933354b4b633d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-27",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong><br>Fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
  "sistSedd": "2026-07-30T08:40:53+02:00",
+ "slutresultat": {
+  "antal_sokande": 16,
+  "kodagar": 865,
+  "ts": "2026-07-30T08:40:53+02:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "1",

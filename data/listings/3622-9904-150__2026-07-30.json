@@ -1,0 +1,34 @@
+{
+ "adress": "Norra Stationsgatan 99 / 1102",
+ "bildFiler": [
+  {
+   "fil": "media/images/816bdae51bdc3e2a12928ccd032cec9c31c3d8c8.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/bcb5438729d454af8e17eb75906a5547340bd729.jpg",
+   "text": "idun_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-03T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=66744b62685972624f76665174347a7977674d72334e42346a4f73317131486b577232435657674e4757633d",
+ "hiss": "Ja",
+ "hyra": "6 247",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Norra+Stationsgatan+99+%2F+1102%2CStockholm",
+ "key": "3622-9904-150__2026-07-30",
+ "lat": 59.3444977,
+ "lon": 18.0299993,
+ "objektNr": "3622-9904-150",
+ "omrade": "Idun",
+ "omradeKod": "Idun",
+ "planlosningFil": "media/floorplans/3622-9904-150.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3622-9904-150",
+ "publiceratDatum": "2026-07-30",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Bostad i markplan</h4>Observera att bostaden ligger i markplan.</div>\n",
+ "sistSedd": "2026-07-30T11:43:53+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "1",
+ "yta": 19
+}

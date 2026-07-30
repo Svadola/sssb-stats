@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 7 personer, varav den med flest ködagar just nu har 989 ködagar.",
  "deadline": "2026-07-30T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=764d39556c4250357977364a6a4d424179546a31623039414b344c7a4b2b326b526779744952645975476f3d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-27",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
  "sistSedd": "2026-07-30T08:40:53+02:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 989,
+  "ts": "2026-07-30T08:40:53+02:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "Sutterängvåning",

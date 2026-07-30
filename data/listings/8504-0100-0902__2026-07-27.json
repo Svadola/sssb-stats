@@ -10,6 +10,7 @@
    "text": "Tantogatan_2 ej wec 360"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 14 personer, varav den med flest ködagar just nu har 985 ködagar.",
  "deadline": "2026-07-30T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=49704666464b7662744f7653336d6c525352524e3468714c6c2f5a55544931386e552f49394f696e4a54383d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-27",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information för Tanto</h4>Fastigheten ägs ej av SSSB. För mer information och typritningar läs under <a href=\"https://www.sssb.se/tanto/\">Tanto</a>.</div>\n",
  "sistSedd": "2026-07-30T08:40:53+02:00",
+ "slutresultat": {
+  "antal_sokande": 13,
+  "kodagar": 985,
+  "ts": "2026-07-30T08:40:53+02:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "Sutterängvåning",

@@ -63,6 +63,10 @@
   "lat": 59.337334,
   "lon": 18.068756
  },
+ "Drottninggatan 67, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3353549,
+  "lon": 18.059838
+ },
  "Emmylundsvägen 1, Solna, Stockholm, Sweden": {
   "lat": 59.3479926,
   "lon": 18.0012792
@@ -106,6 +110,10 @@
  "Forskarbacken 19, Stockholm, Stockholm, Sweden": {
   "lat": 59.370638,
   "lon": 18.0640244
+ },
+ "Forskarbacken 2, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3709449,
+  "lon": 18.0605916
  },
  "Forskarbacken 21, Stockholm, Stockholm, Sweden": {
   "lat": 59.3704715,
@@ -223,11 +231,19 @@
   "lat": 59.3819394,
   "lon": 18.0251405
  },
+ "Kungshamra 54 A, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
  "Kungshamra 54 B, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
  },
  "Kungshamra 55 B, Solna, Stockholm, Sweden": {
+  "lat": 59.3819394,
+  "lon": 18.0251405
+ },
+ "Kungshamra 55 C, Solna, Stockholm, Sweden": {
   "lat": 59.3819394,
   "lon": 18.0251405
  },
@@ -290,6 +306,10 @@
  "Körsbärsvägen 9, Stockholm, Stockholm, Sweden": {
   "lat": 59.3493572,
   "lon": 18.0626336
+ },
+ "Löjtnantsgatan 15, Stockholm, Stockholm, Sweden": {
+  "lat": 59.3455577,
+  "lon": 18.0835749
  },
  "Maltgatan 12, Stockholm, Stockholm, Sweden": {
   "lat": 59.3028973,

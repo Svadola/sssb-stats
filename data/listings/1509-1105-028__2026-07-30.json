@@ -1,0 +1,34 @@
+{
+ "adress": "Löjtnantsgatan 15 / 1304",
+ "bildFiler": [
+  {
+   "fil": "media/images/e7b6961e827b26668cfb64e53f18d35d01518c7c.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/946f62aa48ab39827db008982650769c53de5d19.jpg",
+   "text": "mjolner_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-03T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=302b573372596a4c386a4f4f536f5135654b59414732446f617759356c7574772b4463746a4146774948633d",
+ "hiss": "Ja",
+ "hyra": "12 501",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=L%C3%B6jtnantsgatan+15+%2F+1304%2CStockholm",
+ "key": "1509-1105-028__2026-07-30",
+ "lat": 59.3455577,
+ "lon": 18.0835749,
+ "objektNr": "1509-1105-028",
+ "omrade": "Mjölner",
+ "omradeKod": "Mjölne",
+ "planlosningFil": "media/floorplans/1509-1105-028.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1509-1105-028",
+ "publiceratDatum": "2026-07-30",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-3/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-07-30T11:43:53+02:00",
+ "typ": "2 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "3",
+ "yta": 65
+}

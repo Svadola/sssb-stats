@@ -1,0 +1,30 @@
+{
+ "adress": "Holländargatan 21 B / 1302",
+ "bildFiler": [
+  {
+   "fil": "media/images/80593d269739889dd499bc12147ca8202308c167.jpg",
+   "text": "kurland_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-03T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4e345445576b48793733654479547a4e435134786f67653634423376664969766f575a44454c352f5a63513d",
+ "hiss": "Ja",
+ "hyra": "9 944",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Holl%C3%A4ndargatan+21+B+%2F+1302%2CStockholm",
+ "key": "3419-2105-002__2026-07-30",
+ "lat": 59.3385979,
+ "lon": 18.0583744,
+ "objektNr": "3419-2105-002",
+ "omrade": "Kurland",
+ "omradeKod": "Kurlan",
+ "planlosningFil": "media/floorplans/3419-2105-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3419-2105-002",
+ "publiceratDatum": "2026-07-30",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vid-avtalssignering-pa-kurland/\">Vid avtalssignering på Kurland</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-07-30T11:43:53+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "3",
+ "yta": 43
+}

@@ -10,6 +10,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 8 personer, varav den med flest ködagar just nu har 856 ködagar.",
  "deadline": "2026-07-30T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=7076664a763446414b2b63456e6448414165486a724a335276736e336c4e35634b484c30777954344c6b733d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-27",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Hissar</h4>Det finns en tillgänglighetshiss i huset för dem som behöver den.</div>\n",
  "sistSedd": "2026-07-30T08:40:53+02:00",
+ "slutresultat": {
+  "antal_sokande": 9,
+  "kodagar": 856,
+  "ts": "2026-07-30T08:40:53+02:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Bottenvåning",
