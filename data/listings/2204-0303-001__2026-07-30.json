@@ -10,6 +10,7 @@
    "text": "domus_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 11 personer, varav den med flest ködagar just nu har 1496 ködagar.",
  "deadline": "2026-08-03T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=505a68314e6c5432727a426b676a754a6a7049716d37456e46666670686c64577a6b7455753649386674673d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-07-30",
  "publiceringstexter": "",
  "sistSedd": "2026-08-03T13:43:12+02:00",
+ "slutresultat": {
+  "antal_sokande": 11,
+  "kodagar": 754,
+  "ts": "2026-08-03T13:43:12+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "Bottenvåning",

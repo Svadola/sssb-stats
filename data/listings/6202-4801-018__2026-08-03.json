@@ -1,0 +1,34 @@
+{
+ "adress": "Kungshamra 48 / 1016",
+ "bildFiler": [
+  {
+   "fil": "media/images/657c5253c6a91922ec73657a5f53317b69970b2f.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-06T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=657576674259633237336e6272492b59302f70753577546f6d6c6e66324b30646851324e436439526854673d",
+ "hiss": "Ja",
+ "hyra": "5 416",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+48+%2F+1016%2CSolna",
+ "key": "6202-4801-018__2026-08-03",
+ "lat": 59.3823314,
+ "lon": 18.0237898,
+ "objektNr": "6202-4801-018",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6202-4801-018.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-4801-018",
+ "publiceratDatum": "2026-08-03",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Hissar</h4>Det finns en tillgänglighetshiss i huset för dem som behöver den.</div>\n",
+ "sistSedd": "2026-08-03T17:16:42+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 23
+}

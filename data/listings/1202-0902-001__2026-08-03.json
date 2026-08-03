@@ -1,0 +1,34 @@
+{
+ "adress": "Öregrundsgatan 9 / 1001",
+ "bildFiler": [
+  {
+   "fil": "media/images/3a6eeb0229adc9cabaeb964ca4e7fb10b23bbce8.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/19250988e614d299543cf0e29ea7d0b7f30d3989.jpg",
+   "text": "hugin_munin_zoom_in_2_full"
+  }
+ ],
+ "deadline": "2026-08-06T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=2f556e566975632b4e5230447953614850623962654858666e64797a4e31766f42736b7255482f6a454b553d",
+ "hiss": "Ja",
+ "hyra": "4 782",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=%C3%96regrundsgatan+9+%2F+1001%2CStockholm",
+ "key": "1202-0902-001__2026-08-03",
+ "lat": 59.3459726,
+ "lon": 18.1112291,
+ "objektNr": "1202-0902-001",
+ "omrade": "Hugin",
+ "omradeKod": "Hugin",
+ "planlosningFil": "media/floorplans/1202-0902-001.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1202-0902-001",
+ "publiceratDatum": "2026-08-03",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-3/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n<div class=\"Publiceringstext FT WEBBFTPU\">Med reservation för avvikelser avseende mått och fast inredning i bostaden.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Kollektivt boende</h4>\nFyra hyresgäster har var sitt rum och delar kök, dusch och WC.</div>\n",
+ "sistSedd": "2026-08-03T17:16:42+02:00",
+ "typ": "Rum i kollektiv",
+ "typOvergripande": "Studentrum",
+ "vaning": "Bottenvåning",
+ "yta": 13
+}

@@ -14,6 +14,7 @@
    "text": "frosunda_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 10 personer, varav den med flest ködagar just nu har 411 ködagar.",
  "deadline": "2026-08-03T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=593072336b7556586646423973544a32714b4b6d634f57303156476268654277376c4954754f747531746b3d",
  "hiss": "Ja",
@@ -31,6 +32,11 @@
  "publiceratDatum": "2026-07-30",
  "publiceringstexter": "",
  "sistSedd": "2026-08-03T13:43:12+02:00",
+ "slutresultat": {
+  "antal_sokande": 13,
+  "kodagar": 732,
+  "ts": "2026-08-03T13:43:12+02:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "6",

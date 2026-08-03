@@ -6,6 +6,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 11 personer, varav den med flest ködagar just nu har 267 ködagar.",
  "deadline": "2026-08-03T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=79324d6c48566c465a744a6559754f6873444678676b2f515667364149595074337969706c43754d7951383d",
  "hiss": "Nej",
@@ -23,6 +24,11 @@
  "publiceratDatum": "2026-07-30",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\">Underhåll av fasaden pågår fram till oktober, vilket kan innebära störande arbeten. Läs mer under <a href=\"https://www.sssb.se/nyheter/underhall-av-fasader-pa-kungshamra-21/\">Underhåll av fasader på Kungshamra 21</a>.<br /><br /><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-08-03T13:43:12+02:00",
+ "slutresultat": {
+  "antal_sokande": 12,
+  "kodagar": 267,
+  "ts": "2026-08-03T13:43:12+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "2",
