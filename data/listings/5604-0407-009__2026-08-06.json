@@ -1,0 +1,38 @@
+{
+ "adress": "Gustav III:s Boulevard 4 / 1504",
+ "bildFiler": [
+  {
+   "fil": "media/images/ee2a15fd6eafdb2000d98797ff2ac406ce8d6f4d.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/2a0bb6f7e82f2baad800bd77f66afde14b01d77b.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/def58a2258c7021df10e9e85f822ec7567a2dbaf.jpg",
+   "text": "frosunda_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-10T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=693743444a4948326d6b516b516a414d7851624175377933387270343734577965575134524f3537792b303d",
+ "hiss": "Ja",
+ "hyra": "5 795",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Gustav+III%3As+Boulevard+4+%2F+1504%2CSolna",
+ "key": "5604-0407-009__2026-08-06",
+ "lat": 59.3677028,
+ "lon": 18.0153051,
+ "objektNr": "5604-0407-009",
+ "omrade": "Frösunda",
+ "omradeKod": "Frösun",
+ "planlosningFil": "media/floorplans/5604-0407-009.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5604-0407-009",
+ "publiceratDatum": "2026-08-06",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-06T11:52:59+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "5",
+ "yta": 24
+}
