@@ -1,0 +1,34 @@
+{
+ "adress": "Röntgenvägen 1 / 1005",
+ "bildFiler": [
+  {
+   "fil": "media/images/7ecef203f55ff57c98495e739931ca1f4047e28c.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/313d0bfccf925f4af6e9fbc57f865712dd13a7b1.jpg",
+   "text": "flemingsberg_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-17T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=422b6a6e7248736d44574a6d797545756c65552b425862734a6d5647494234624e4c3831524571667053513d",
+ "hiss": "Ja",
+ "hyra": "6 685",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=R%C3%B6ntgenv%C3%A4gen+1+%2F+1005%2CHuddinge",
+ "key": "4210-0103-035__2026-08-13",
+ "lat": 59.2243793,
+ "lon": 17.9364664,
+ "objektNr": "4210-0103-035",
+ "omrade": "Flemingsberg",
+ "omradeKod": "Medici",
+ "planlosningFil": "media/floorplans/4210-0103-035.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=4210-0103-035",
+ "publiceratDatum": "2026-08-13",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-13T10:45:23+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 22
+}

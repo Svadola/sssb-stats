@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 7 / 1201",
+ "bildFiler": [
+  {
+   "fil": "media/images/cf873218536bc177c18dcf45872fa45e946206ec.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-08-17T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=455459454c696e6939383561585242384d4550634564313236793277463474314a5068455839674d7050773d",
+ "hiss": "Ja",
+ "hyra": "4 525",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+7+%2F+1201%2CStockholm",
+ "key": "7808-0203-001__2026-08-13",
+ "lat": 59.3712267,
+ "lon": 18.0604771,
+ "objektNr": "7808-0203-001",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7808-0203-001.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7808-0203-001",
+ "publiceratDatum": "2026-08-13",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-13T10:45:23+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "2",
+ "yta": 18
+}

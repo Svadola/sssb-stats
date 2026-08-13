@@ -1,0 +1,34 @@
+{
+ "adress": "Kungshamra 81 / 1110",
+ "bildFiler": [
+  {
+   "fil": "media/images/657c5253c6a91922ec73657a5f53317b69970b2f.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-17T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4a5750364a4e6c343033515355466e5743676278386545464239723058765a754b5441774d5577734579733d",
+ "hiss": "Ja",
+ "hyra": "5 411",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+81+%2F+1110%2CSolna",
+ "key": "6404-8102-012__2026-08-13",
+ "lat": 59.3819394,
+ "lon": 18.0251405,
+ "objektNr": "6404-8102-012",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6404-8102-012.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6404-8102-012",
+ "publiceratDatum": "2026-08-13",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av el</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Hissar</h4>Det finns en tillgänglighetshiss i huset för dem som behöver den.</div>\n",
+ "sistSedd": "2026-08-13T10:45:23+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "1",
+ "yta": 23
+}
