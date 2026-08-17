@@ -10,6 +10,7 @@
    "text": "flemingsberg_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 18 personer, varav den med flest ködagar just nu har 477 ködagar.",
  "deadline": "2026-08-17T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4d6a6b6f5937446353504d506c6f4d36476a7044777162513138736e2f377a327a51326a4a59434857476b3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-08-13",
  "publiceringstexter": "",
  "sistSedd": "2026-08-17T15:52:29+02:00",
+ "slutresultat": {
+  "antal_sokande": 18,
+  "kodagar": 477,
+  "ts": "2026-08-17T15:52:29+02:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "5",

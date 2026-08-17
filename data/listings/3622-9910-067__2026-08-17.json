@@ -1,0 +1,34 @@
+{
+ "adress": "Norra Stationsgatan 99 / 1722",
+ "bildFiler": [
+  {
+   "fil": "media/images/816bdae51bdc3e2a12928ccd032cec9c31c3d8c8.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/bcb5438729d454af8e17eb75906a5547340bd729.jpg",
+   "text": "idun_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-20T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4566734d654d6a71566a382f4c514845634f6c4f6958534a745a647537774335434c44732f6f4c6f3454343d",
+ "hiss": "Ja",
+ "hyra": "5 758",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Norra+Stationsgatan+99+%2F+1722%2CStockholm",
+ "key": "3622-9910-067__2026-08-17",
+ "lat": 59.3444977,
+ "lon": 18.0299993,
+ "objektNr": "3622-9910-067",
+ "omrade": "Idun",
+ "omradeKod": "Idun",
+ "planlosningFil": "media/floorplans/3622-9910-067.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3622-9910-067",
+ "publiceratDatum": "2026-08-17",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-17T16:45:44+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "7",
+ "yta": 16
+}
