@@ -1,0 +1,34 @@
+{
+ "adress": "Professorsslingan 10 / 1225",
+ "bildFiler": [
+  {
+   "fil": "media/images/494cb96b6405bb4981ff1bccd31e29a1b71be31b.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-08-24T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3563766947444c4b4869504c74473739616269644e72566b4d466a47427655595435514146634f4e766d513d",
+ "hiss": "Ja",
+ "hyra": "6 560",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+10+%2F+1225%2CStockholm",
+ "key": "7101-5105-028__2026-08-20",
+ "lat": 59.3704065,
+ "lon": 18.0597907,
+ "objektNr": "7101-5105-028",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7101-5105-028.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7101-5105-028",
+ "publiceratDatum": "2026-08-20",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-20T10:57:59+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "2",
+ "yta": 25
+}

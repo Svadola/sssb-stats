@@ -1,0 +1,34 @@
+{
+ "adress": "Körsbärsvägen 3 / 1206",
+ "bildFiler": [
+  {
+   "fil": "media/images/27f6d43634a332cd6246ea20cbdd13ba7bfc1adf.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/275b97755ba21be7dce69b95c90ca8fc2dbf08e1.jpg",
+   "text": "domus_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-24T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=50743373786c397550534b59587478424367596465716c304358754f5a4b705542697746444f75704769673d",
+ "hiss": "Ja",
+ "hyra": "7 263",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=K%C3%B6rsb%C3%A4rsv%C3%A4gen+3+%2F+1206%2CStockholm",
+ "key": "2204-0305-006__2026-08-20",
+ "lat": 59.3487592,
+ "lon": 18.0638868,
+ "objektNr": "2204-0305-006",
+ "omrade": "Domus",
+ "omradeKod": "Domus",
+ "planlosningFil": "media/floorplans/2204-0305-006.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=2204-0305-006",
+ "publiceratDatum": "2026-08-20",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-20T10:57:59+02:00",
+ "typ": "2 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "2",
+ "yta": 37
+}

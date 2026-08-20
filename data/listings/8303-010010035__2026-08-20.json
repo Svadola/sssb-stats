@@ -1,0 +1,34 @@
+{
+ "adress": "Fyrverkarbacken 23 / 1302",
+ "bildFiler": [
+  {
+   "fil": "media/images/68c8766a9073273aee4108ea07f431841a32ad46.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4ba985876c7aaa28b585c0190b84ddaf0fe26edf.jpg",
+   "text": "Marieberg bild ej wec 360"
+  }
+ ],
+ "deadline": "2026-08-24T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=496866552f7359334e6f457352712b4b77765254666b6e56747a32733463522f47384870596c555a3368733d",
+ "hiss": "Ja",
+ "hyra": "6 460",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Fyrverkarbacken+23+%2F+1302%2CStockholm",
+ "key": "8303-010010035__2026-08-20",
+ "lat": 59.3264718,
+ "lon": 18.0212997,
+ "objektNr": "8303-010010035",
+ "omrade": "Marieberg",
+ "omradeKod": "Marieb",
+ "planlosningFil": "media/floorplans/8303-010010035.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=8303-010010035",
+ "publiceratDatum": "2026-08-20",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktig information gällande bostäderna i Marieberg</h4>Fastigheten ägs ej av SSSB. Det finns inget förråd till bostaden. För mer information och typritningar läs under <a href=\"https://www.sssb.se/marieberg/\">Marieberg</a>.</div>\n",
+ "sistSedd": "2026-08-20T10:57:59+02:00",
+ "typ": "2 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "3",
+ "yta": 30.0
+}

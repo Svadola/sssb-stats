@@ -1,0 +1,34 @@
+{
+ "adress": "Emmylundsvägen 5 / 1108",
+ "bildFiler": [
+  {
+   "fil": "media/images/62b0eb405a6dc3b878161846c36cddba9fec3e7a.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/20eac38ed4fe9ab2031931818e70c3d594073e40.jpg",
+   "text": "pax_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-24T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=54434656474e4c757759643556623863674d793171735051584e424b307674737063584537502b6655394d3d",
+ "hiss": "Ja",
+ "hyra": "5 266",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Emmylundsv%C3%A4gen+5+%2F+1108%2CSolna",
+ "key": "5201-0504-009__2026-08-20",
+ "lat": 59.3478985,
+ "lon": 18.0005946,
+ "objektNr": "5201-0504-009",
+ "omrade": "Pax",
+ "omradeKod": "Pax",
+ "planlosningFil": "media/floorplans/5201-0504-009.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5201-0504-009",
+ "publiceratDatum": "2026-08-20",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell elmätning</h4>Det är individuell elmätning i bostaden. Detta innebär att du betalar en schablon för el som sedan avräknas mot faktisk användning. Schablonen är medräknad i den totala hyran som visas. Det tillkommer 25% moms på schablonen för el vid avisering av hyran.</div>\n",
+ "sistSedd": "2026-08-20T10:57:59+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "1",
+ "yta": 22
+}

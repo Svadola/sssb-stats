@@ -1,0 +1,34 @@
+{
+ "adress": "Körsbärsvägen 2 B / 1005",
+ "bildFiler": [
+  {
+   "fil": "media/images/0117288c86800233cdab475beb485d442c3a0b0b.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/c582282da5d59ceecb7fd47c17f2630c3eab7d6e.jpg",
+   "text": "forum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-24T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=544c4a735a624947594f356d38657a314a787131446f67312f504f30397275446877374c68785672536f4d3d",
+ "hiss": "Nej",
+ "hyra": "6 858",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=K%C3%B6rsb%C3%A4rsv%C3%A4gen+2+B+%2F+1005%2CStockholm",
+ "key": "2118-0203-003__2026-08-20",
+ "lat": 59.3486273,
+ "lon": 18.0646997,
+ "objektNr": "2118-0203-003",
+ "omrade": "Forum",
+ "omradeKod": "FORUM",
+ "planlosningFil": "media/floorplans/2118-0203-003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=2118-0203-003",
+ "publiceratDatum": "2026-08-20",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-20T10:57:59+02:00",
+ "typ": "2 rum & pentry",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "Bottenvåning",
+ "yta": 38
+}
