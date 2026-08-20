@@ -10,6 +10,7 @@
    "text": "strix_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 7 personer, varav den med flest ködagar just nu har 999 ködagar.",
  "deadline": "2026-08-20T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=353038434c4d4950315341746c2b51424e4676356a736565746b67544d7555564c703665614e59397665733d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-08-17",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\" https://sssb.se/nyheter/vi-renoverar-pa-strix/”>Vi renoverar på Strix</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Individuell elmätning</h4>Det är individuell elmätning i bostaden. Detta innebär att du betalar en schablon för el som sedan avräknas mot faktisk användning. Schablonen är medräknad i den totala hyran som visas. Det tillkommer 25% moms på schablonen för el vid avisering av hyran.</div>\n",
  "sistSedd": "2026-08-20T09:05:07+02:00",
+ "slutresultat": {
+  "antal_sokande": 7,
+  "kodagar": 999,
+  "ts": "2026-08-20T09:58:14+02:00"
+ },
  "typ": "2 rum & pentry",
  "typOvergripande": "Studentlägenhet",
  "vaning": "9",

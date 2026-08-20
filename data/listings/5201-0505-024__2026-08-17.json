@@ -10,6 +10,7 @@
    "text": "pax_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 1071 ködagar.",
  "deadline": "2026-08-20T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=48364344305447475534692f526c6473425941705772593846554b3078546e2f6867506247784c6764634d3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-08-17",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell elmätning</h4>Det är individuell elmätning i bostaden. Detta innebär att du betalar en schablon för el som sedan avräknas mot faktisk användning. Schablonen är medräknad i den totala hyran som visas. Det tillkommer 25% moms på schablonen för el vid avisering av hyran.</div>\n",
  "sistSedd": "2026-08-20T09:05:07+02:00",
+ "slutresultat": {
+  "antal_sokande": 2,
+  "kodagar": 1071,
+  "ts": "2026-08-20T09:58:14+02:00"
+ },
  "typ": "2 rum & pentry",
  "typOvergripande": "Studentlägenhet",
  "vaning": "2",
