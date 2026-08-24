@@ -1,0 +1,30 @@
+{
+ "adress": "Kungshamra 41 / 1209",
+ "bildFiler": [
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-27T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=557a4736504b4c69573833644c474a593362387a614e31354e6f7a534f38624f4e6c56546964704b754a733d",
+ "hiss": "Nej",
+ "hyra": "3 947",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+41+%2F+1209%2CSolna",
+ "key": "6202-4104-023__2026-08-24",
+ "lat": 59.3819189,
+ "lon": 18.024099,
+ "objektNr": "6202-4104-023",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6202-4104-023.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-4104-023",
+ "publiceratDatum": "2026-08-24",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
+ "sistSedd": "2026-08-24T16:04:13+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "2",
+ "yta": 19
+}

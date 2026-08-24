@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 17 / 1207",
+ "bildFiler": [
+  {
+   "fil": "media/images/cf873218536bc177c18dcf45872fa45e946206ec.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-08-27T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4e745750636e356d736c48694852592b5376657255666e6b6a58663474686961392f435a38496c665873343d",
+ "hiss": "Ja",
+ "hyra": "4 459",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+17+%2F+1207%2CStockholm",
+ "key": "7505-0703-008__2026-08-24",
+ "lat": 59.3707322,
+ "lon": 18.0635278,
+ "objektNr": "7505-0703-008",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7505-0703-008.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7505-0703-008",
+ "publiceratDatum": "2026-08-24",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
+ "sistSedd": "2026-08-24T16:04:13+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "Bottenvåning",
+ "yta": 18
+}

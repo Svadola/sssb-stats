@@ -1,0 +1,34 @@
+{
+ "adress": "Amanuensvägen 14 / 0905",
+ "bildFiler": [
+  {
+   "fil": "media/images/bc79dd39070c2bc1904fdb30367d9a5682fa9bc4.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-08-27T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=484236797a537468364e4a6739422f6c45523237612b64526949666b6251326946785361713436655333633d",
+ "hiss": "Nej",
+ "hyra": "5 082",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Amanuensv%C3%A4gen+14+%2F+0905%2CStockholm",
+ "key": "7404-2401-006__2026-08-24",
+ "lat": 59.3694538,
+ "lon": 18.0660456,
+ "objektNr": "7404-2401-006",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7404-2401-006.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7404-2401-006",
+ "publiceratDatum": "2026-08-24",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
+ "sistSedd": "2026-08-24T16:04:13+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "Sutterängvåning",
+ "yta": 21
+}
