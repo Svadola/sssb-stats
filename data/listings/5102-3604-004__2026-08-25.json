@@ -1,5 +1,5 @@
 {
- "adress": "Armégatan 32 C / 1311",
+ "adress": "Armégatan 32 C / 1304",
  "bildFiler": [
   {
    "fil": "media/images/7ed4528866f4fdf0f01f0c8005d9d3d6212281ed.jpg",
@@ -10,21 +10,21 @@
    "text": "strix_zoom_in_full"
   }
  ],
- "deadline": "2026-08-27T10:00",
- "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=437943685765534f593142764f6a6f6a50455836665866614a365575785638545037466a784e4e7876724d3d",
+ "deadline": "2026-08-26T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4a6b71436c457661376e446878515848356131696c4c4955614b51316f716949314a66793144527a6f66733d",
  "hiss": "Ja",
  "hyra": "7 172",
- "inflyttningDatum": "2026-09-16",
- "kartURL": "https://maps.google.se/?q=Arm%C3%A9gatan+32+C+%2F+1311%2CSolna",
- "key": "5102-3604-011__2026-08-24",
+ "inflyttningDatum": "2026-09-01",
+ "kartURL": "https://maps.google.se/?q=Arm%C3%A9gatan+32+C+%2F+1304%2CSolna",
+ "key": "5102-3604-004__2026-08-25",
  "lat": 59.3496816,
  "lon": 18.0038842,
- "objektNr": "5102-3604-011",
+ "objektNr": "5102-3604-004",
  "omrade": "Strix",
  "omradeKod": "STRIX",
- "planlosningFil": "media/floorplans/5102-3604-011.pdf",
- "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5102-3604-011",
- "publiceratDatum": "2026-08-24",
+ "planlosningFil": "media/floorplans/5102-3604-004.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5102-3604-004",
+ "publiceratDatum": "2026-08-25",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-08-25T10:59:53+02:00",
  "typ": "1 rum & pentry",
