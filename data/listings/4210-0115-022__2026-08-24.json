@@ -10,6 +10,7 @@
    "text": "flemingsberg_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 3 personer, varav den med flest ködagar just nu har 359 ködagar.",
  "deadline": "2026-08-26T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4a596a6d7774795973364f2f2f7a4c64776370797432784c474a417575347978342b39536b572f5056526f3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-08-24",
  "publiceringstexter": "",
  "sistSedd": "2026-08-26T09:08:25+02:00",
+ "slutresultat": {
+  "antal_sokande": 3,
+  "kodagar": 359,
+  "ts": "2026-08-26T09:58:27+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "12",
