@@ -1,0 +1,34 @@
+{
+ "adress": "Nathorstvägen 46 / 1207",
+ "bildFiler": [
+  {
+   "fil": "media/images/c962673356014f03fb916320ee20d63644176f52.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/1e803cd7fdf6024523762f8169c9bfdc8bb784ac.jpg",
+   "text": "skarmarbrink_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-31T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=2f334f724e74347a364339766878716b362f7141775478384e704559344a436f746e346d343437696f42383d",
+ "hiss": "Nej",
+ "hyra": "13 992",
+ "inflyttningDatum": "2026-10-01",
+ "kartURL": "https://maps.google.se/?q=Nathorstv%C3%A4gen+46+%2F+1207%2CJohanneshov",
+ "key": "4306-4603-001__2026-08-27",
+ "lat": 59.2951287,
+ "lon": 18.0942222,
+ "objektNr": "4306-4603-001",
+ "omrade": "Skärmarbrink",
+ "omradeKod": "Hammar",
+ "planlosningFil": "media/floorplans/4306-4603-001.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=4306-4603-001",
+ "publiceratDatum": "2026-08-27",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-27T11:49:38+02:00",
+ "typ": "4 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "1",
+ "yta": 96
+}

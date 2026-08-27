@@ -1,0 +1,34 @@
+{
+ "adress": "Maltgatan 4 / 1405",
+ "bildFiler": [
+  {
+   "fil": "media/images/86284366492f4adbf6c4b7d3f70aa860b19ba019.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/20c757a68546ac263b5354e56abdbbd537478b84.jpg",
+   "text": "embla_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-08-31T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3750597454494d333346794a766b444f43347a53685231343838564a33736e484d76792b654875587755733d",
+ "hiss": "Ja",
+ "hyra": "7 209",
+ "inflyttningDatum": "2026-10-01",
+ "kartURL": "https://maps.google.se/?q=Maltgatan+4+%2F+1405%2CStockholm",
+ "key": "4415-0106-023__2026-08-27",
+ "lat": 59.3033498,
+ "lon": 18.0982887,
+ "objektNr": "4415-0106-023",
+ "omrade": "Embla",
+ "omradeKod": "Embla",
+ "planlosningFil": "media/floorplans/4415-0106-023.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=4415-0106-023",
+ "publiceratDatum": "2026-08-27",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av el</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a></div>\n",
+ "sistSedd": "2026-08-27T11:49:38+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "4",
+ "yta": 28
+}

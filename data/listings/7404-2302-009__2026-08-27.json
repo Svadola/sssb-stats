@@ -1,0 +1,34 @@
+{
+ "adress": "Professorsslingan 23 / 1003",
+ "bildFiler": [
+  {
+   "fil": "media/images/bc79dd39070c2bc1904fdb30367d9a5682fa9bc4.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-08-31T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=34716b357468566f3162694f614c777641476874366349686a62523273676a75364f5a55363165725079513d",
+ "hiss": "Nej",
+ "hyra": "4 509",
+ "inflyttningDatum": "2026-10-01",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+23+%2F+1003%2CStockholm",
+ "key": "7404-2302-009__2026-08-27",
+ "lat": 59.3693335,
+ "lon": 18.0652475,
+ "objektNr": "7404-2302-009",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7404-2302-009.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7404-2302-009",
+ "publiceratDatum": "2026-08-27",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-27T11:49:38+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 18
+}
