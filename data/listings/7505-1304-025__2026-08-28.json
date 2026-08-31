@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 51 ködagar.",
  "deadline": "2026-08-31T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6f6e31395575786f74306e3453314f6b455049434867464339714c545a4e46755778784b646f376a5559593d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-08-28",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Sanering av PCB-fogar och renovering av fönster</h4> Vi renoverar fönster och sanerar fogar från PCB i ditt område. Arbetet sker från utsidan via en byggställning som hänger från taket. Arbetet kan orsaka buller och insyn kortare perioder. Läs mer under <a href=\"https://www.sssb.se/nyheter/sanering-av-pcb-fogar-och-renovering-av-fonster/\">Sanering av PCB-fogar och renovering av fönster</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att bostaden ligger i anslutning till Lappis padelbana vilket kan uppfattas som störande.</div>\n",
  "sistSedd": "2026-08-31T07:34:17+02:00",
+ "slutresultat": {
+  "antal_sokande": 3,
+  "kodagar": 460,
+  "ts": "2026-08-31T07:34:17+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "3",
