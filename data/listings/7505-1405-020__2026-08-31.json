@@ -1,0 +1,34 @@
+{
+ "adress": "Amanuensvägen 5 / 1302",
+ "bildFiler": [
+  {
+   "fil": "media/images/91cc059ee299af3ba77cc9e4e382973a7dc1f139.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-09-03T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=474252504276447a6271796754384b77386c322f6a51376c37497a73356a425379454976756377617033303d",
+ "hiss": "Nej",
+ "hyra": "4 745",
+ "inflyttningDatum": "2026-10-01",
+ "kartURL": "https://maps.google.se/?q=Amanuensv%C3%A4gen+5+%2F+1302%2CStockholm",
+ "key": "7505-1405-020__2026-08-31",
+ "lat": 59.3700586,
+ "lon": 18.0636884,
+ "objektNr": "7505-1405-020",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7505-1405-020.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7505-1405-020",
+ "publiceratDatum": "2026-08-31",
+ "publiceringstexter": "",
+ "sistSedd": "2026-08-31T22:05:36+02:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "4",
+ "yta": 18
+}
