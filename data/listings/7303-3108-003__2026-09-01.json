@@ -1,5 +1,5 @@
 {
- "adress": "Professorsslingan 45 / 1404",
+ "adress": "Professorsslingan 43 / 1603",
  "bildFiler": [
   {
    "fil": "media/images/689ad032b202906e415b6ca18310d4e7b967fc87.jpg",
@@ -10,25 +10,25 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
- "deadline": "2026-09-03T10:00",
- "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=68695332446879526d32316d33686567395a3735445468473563394c66537a3468445055476a68514553633d",
+ "deadline": "2026-09-02T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4c5a7a436c384d355230496532494a70614c314d794e69423758424272486144594443457263464d7132493d",
  "hiss": "Ja",
- "hyra": "11 829",
- "inflyttningDatum": "2026-09-16",
- "kartURL": "https://maps.google.se/?q=Professorsslingan+45+%2F+1404%2CStockholm",
- "key": "7303-3206-004__2026-08-31",
- "lat": 59.3702291,
- "lon": 18.0667475,
- "objektNr": "7303-3206-004",
+ "hyra": "9 694",
+ "inflyttningDatum": "2026-09-02",
+ "kartURL": "https://maps.google.se/?q=Professorsslingan+43+%2F+1603%2CStockholm",
+ "key": "7303-3108-003__2026-09-01",
+ "lat": 59.3703427,
+ "lon": 18.0666605,
+ "objektNr": "7303-3108-003",
  "omrade": "Lappkärrsberget",
  "omradeKod": "Lappis",
- "planlosningFil": "media/floorplans/7303-3206-004.pdf",
- "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7303-3206-004",
- "publiceratDatum": "2026-08-31",
+ "planlosningFil": "media/floorplans/7303-3108-003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7303-3108-003",
+ "publiceratDatum": "2026-09-01",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av el</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-09-01T16:53:14+02:00",
- "typ": "4 rum & kök",
+ "typ": "3 rum & pentry",
  "typOvergripande": "Studentlägenhet",
- "vaning": "4",
- "yta": 75
+ "vaning": "6",
+ "yta": 58
 }
