@@ -1,5 +1,5 @@
 {
- "adress": "Emmylundsvägen 1 / 1420",
+ "adress": "Emmylundsvägen 3 / 1804",
  "bildFiler": [
   {
    "fil": "media/images/33c957feb0f36111d3d98c27adf55e4a81c0cd65.jpg",
@@ -11,24 +11,24 @@
   }
  ],
  "deadline": "2026-09-03T10:00",
- "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4d36657633553452346a4935436d707838714f2b4c516d3253776d49686b527479306b6843544b4274494d3d",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=7a704b4656424d696544584b457a7530452b36365156446170712b7133455962556954732f6647457063383d",
  "hiss": "Ja",
  "hyra": "4 181",
- "inflyttningDatum": "2026-09-16",
- "kartURL": "https://maps.google.se/?q=Emmylundsv%C3%A4gen+1+%2F+1420%2CSolna",
- "key": "5201-0105-024__2026-08-31",
- "lat": 59.3479926,
- "lon": 18.0012792,
- "objektNr": "5201-0105-024",
+ "inflyttningDatum": "2026-09-03",
+ "kartURL": "https://maps.google.se/?q=Emmylundsv%C3%A4gen+3+%2F+1804%2CSolna",
+ "key": "5201-0109-050__2026-09-02",
+ "lat": 59.3475788,
+ "lon": 18.000786,
+ "objektNr": "5201-0109-050",
  "omrade": "Pax",
  "omradeKod": "Pax",
- "planlosningFil": "media/floorplans/5201-0105-024.pdf",
- "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5201-0105-024",
- "publiceratDatum": "2026-08-31",
+ "planlosningFil": "media/floorplans/5201-0109-050.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5201-0109-050",
+ "publiceratDatum": "2026-09-02",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Viktigt att ta del av innan du bokar</h4>Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. För mer information, läs under <a href=\"https://www.sssb.se/nyheter/avtalssignering-och-besittningsskydd-2/\">Avtalssignering och besittningsskydd</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-09-02T16:29:05+02:00",
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
- "vaning": "4",
- "yta": 18
+ "vaning": "8",
+ "yta": 17
 }
