@@ -1,0 +1,30 @@
+{
+ "adress": "Kungshamra 62 A / 1102",
+ "bildFiler": [
+  {
+   "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
+   "text": "kungshamra_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-09-07T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3873466e4b6b30306a6d696772716c767332666a34744a745337624265486e53674b78694e58517751684d3d",
+ "hiss": "Nej",
+ "hyra": "13 624",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+62+A+%2F+1102%2CSolna",
+ "key": "6303-6202-002__2026-09-03",
+ "lat": 59.3819394,
+ "lon": 18.0251405,
+ "objektNr": "6303-6202-002",
+ "omrade": "Kungshamra",
+ "omradeKod": "Kungsh",
+ "planlosningFil": "media/floorplans/6303-6202-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6303-6202-002",
+ "publiceratDatum": "2026-09-03",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-09-03T11:50:54+02:00",
+ "typ": "3 rum & kök",
+ "typOvergripande": "Studentlägenhet",
+ "vaning": "1",
+ "yta": 57
+}
