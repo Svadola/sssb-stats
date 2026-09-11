@@ -10,6 +10,7 @@
    "text": "Marieberg bild ej wec 360"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 6 personer, varav den med flest ködagar just nu har 595 ködagar.",
  "deadline": "2026-09-11T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6a64514a58466334454a624d643966706e4f6a6a79527a4578636950526c78764e6f63686e4e797245746b3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-09-10",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktig information gällande bostäderna i Marieberg</h4>Fastigheten ägs ej av SSSB. Det finns inget förråd till bostaden. För mer information och typritningar läs under <a href=\"https://www.sssb.se/marieberg/\">Marieberg</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\">Fastigheten ägs ej av SSSB. Förråd saknas till bostaden. <a href=\"https://sssb.se/vara-bostader/vara-omraden-i-city/marieberg/>Läs mer om Marieberg här.</a></div>\n",
  "sistSedd": "2026-09-11T06:39:48+02:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 595,
+  "ts": "2026-09-11T06:39:48+02:00"
+ },
  "typ": "2 rum & pentry",
  "typOvergripande": "Studentlägenhet",
  "vaning": "12",
