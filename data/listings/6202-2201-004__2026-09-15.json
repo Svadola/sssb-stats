@@ -1,30 +1,30 @@
 {
- "adress": "Kungshamra 25 B / 1002",
+ "adress": "Kungshamra 22 B / 1001",
  "bildFiler": [
   {
    "fil": "media/images/4b53e2cc97330828681731278a3793817fec6733.jpg",
    "text": "kungshamra_zoom_in_full"
   }
  ],
- "deadline": "2026-09-17T10:00",
- "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4b6e663739694d2b424e68786b5839455272666147655a71694c72486c317139744a7363456539696372493d",
+ "deadline": "2026-09-16T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=774b4c354c5739575330777a3769484f6a2f4c50523365675262477a6452677563653234797065755973773d",
  "hiss": "Nej",
- "hyra": "14 353",
- "inflyttningDatum": "2026-10-01",
- "kartURL": "https://maps.google.se/?q=Kungshamra+25+B+%2F+1002%2CSolna",
- "key": "6202-2501-005__2026-09-14",
+ "hyra": "13 406",
+ "inflyttningDatum": "2026-09-16",
+ "kartURL": "https://maps.google.se/?q=Kungshamra+22+B+%2F+1001%2CSolna",
+ "key": "6202-2201-004__2026-09-15",
  "lat": 59.3819394,
  "lon": 18.0251405,
- "objektNr": "6202-2501-005",
+ "objektNr": "6202-2201-004",
  "omrade": "Kungshamra",
  "omradeKod": "Kungsh",
- "planlosningFil": "media/floorplans/6202-2501-005.pdf",
- "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-2501-005",
- "publiceratDatum": "2026-09-14",
+ "planlosningFil": "media/floorplans/6202-2201-004.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=6202-2201-004",
+ "publiceratDatum": "2026-09-15",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell mätning och debitering av el och varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-09-15T17:00:02+02:00",
  "typ": "3 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Bottenvåning",
- "yta": 64
+ "yta": 56
 }
