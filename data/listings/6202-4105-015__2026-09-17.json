@@ -6,6 +6,7 @@
    "text": "kungshamra_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 6 personer, varav den med flest ködagar just nu har 381 ködagar.",
  "deadline": "2026-09-21T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=67436e676d65515670506b4565516a4a4f4b46676832764575667232657756696465376374384e736f536f3d",
  "hiss": "Nej",
@@ -23,6 +24,11 @@
  "publiceratDatum": "2026-09-17",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo max 4 år. Du behöver signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/vi-renoverar-pa-kungshamra/\">Vi renoverar på Kungshamra</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-09-21T12:43:29+02:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 381,
+  "ts": "2026-09-21T15:58:36+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "3",
