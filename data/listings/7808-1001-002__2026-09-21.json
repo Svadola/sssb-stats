@@ -1,0 +1,34 @@
+{
+ "adress": "Amanuensvägen 1 / 0902",
+ "bildFiler": [
+  {
+   "fil": "media/images/e5721fc728c6e99a93bb599cf4b5fe50b63c3b62.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-09-24T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=49355542702f2b6c2f7a4b632f2b336d313677766f56662f6f2b655555386f624c5a5732716657614249633d",
+ "hiss": "Nej",
+ "hyra": "4 450",
+ "inflyttningDatum": "2026-11-01",
+ "kartURL": "https://maps.google.se/?q=Amanuensv%C3%A4gen+1+%2F+0902%2CStockholm",
+ "key": "7808-1001-002__2026-09-21",
+ "lat": 59.3706655,
+ "lon": 18.0605508,
+ "objektNr": "7808-1001-002",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7808-1001-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7808-1001-002",
+ "publiceratDatum": "2026-09-21",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Sanering av PCB-fogar och renovering av fönster</h4> Vi renoverar fönster och sanerar fogar från PCB i ditt område. Arbetet sker från utsidan via en byggställning som hänger från taket. Arbetet kan orsaka buller och insyn kortare perioder. Läs mer under <a href=\"https://www.sssb.se/nyheter/sanering-av-pcb-fogar-och-renovering-av-fonster/\">Sanering av PCB-fogar och renovering av fönster</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att fastigheten är byggd i suterräng och bostaden ligger på marknivå.</div>\n",
+ "sistSedd": "2026-09-21T19:03:57+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "Sutterängvåning",
+ "yta": 18
+}
