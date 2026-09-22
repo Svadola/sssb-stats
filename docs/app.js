@@ -134,7 +134,12 @@ function kodagarCell(r) {
   if (r.status === "aktiv") {
     return `<span class="kodagar-live">${r.kodagar}</span><span class="live-dot" title="Pågående — nuvarande ledare"></span>`;
   }
-  return `<span class="kodagar-final">${r.kodagar}</span>`;
+  const age = r.sekunderForeDeadline;
+  const old = age != null && age > 300;
+  const title = age == null ? "Tidpunkt för sista mätningen saknas i denna dataexport." :
+    age < 0 ? "Mätningen gjordes efter deadline." :
+    `Sista mätningen gjordes ${Math.round(age / 60)} minuter före deadline.`;
+  return `<span class="kodagar-final" title="${title}">${r.kodagar}${old ? ' <span aria-label="Mätningen är äldre än fem minuter före deadline">⚠</span>' : ""}</span>`;
 }
 
 function renderTable(visible) {
@@ -532,9 +537,9 @@ function buildControls() {
 
 function buildMap() {
   map = L.map("map", { scrollWheelZoom: false }).setView([59.36, 18.05], 11);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-    attribution: '© OpenStreetMap, © CARTO',
-    maxZoom: 18,
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19,
   }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
   $("#map-legend").innerHTML =

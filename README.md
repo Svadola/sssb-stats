@@ -23,8 +23,16 @@ Två GitHub Actions-workflows samlar data via sajtens öppna widgets-API (ingen 
   laddar ner planlösning (PDF) och bilder, geokodar adressen (Nominatim, cachad),
   snapshottar ködagar för alla aktiva annonser, sätter slutresultat när deadline passerat
   och regenererar `docs/data.json`.
-- **Deadline watch** (vardagsmorgnar): samplar listan varannan minut fram till dagens sista
-  bokningsdeadline (hittills alltid kl 10:00), så att sista sekunden-anmälningar fångas.
+- **Deadline watch** (startförsök varje timme): letar efter deadlines inom 150 minuter,
+  oavsett klockslag och sommar-/vintertid. Samplar listan varannan minut och var 15:e sekund
+  sista fem minuterna före varje deadline. Poll och watch delar en kö utan att ersätta
+  väntande jobb; varje körning checkar ut senaste datan när den faktiskt startar.
+- Saknade planlösningar, helt eller delvis misslyckade bildhämtningar och saknade
+  koordinater försöks igen när annonsen återkommer i nästa poll.
+
+Kartan använder Leaflet och OpenStreetMaps standardkartlager direkt, utan CARTO eller
+API-nyckel. Kartbilder laddas bara för den synliga kartan och cachas av webbläsaren enligt
+[OpenStreetMaps användningspolicy](https://operations.osmfoundation.org/policies/tiles/).
 
 ## Datastruktur
 
@@ -43,6 +51,11 @@ Två GitHub Actions-workflows samlar data via sajtens öppna widgets-API (ingen 
   till nästa, så det verkliga kravet kan vara något lägre. Bokad-status efter deadline loggas,
   men vinnarens faktiska poäng exponeras aldrig av SSSB.
 - Pågående annonser visar nuvarande ledare — inte ett slutvärde.
+- GitHub Actions kan starta flera timmar sent eller missa schemalagda körningar. Fler
+  startförsök förbättrar täckningen men ger ingen tidsgaranti; exakt deadlinebevakning
+  kräver en mer tillförlitlig schemaläggare. Redan missade slutvärden går inte att återskapa.
+  Dashboardens data innehåller mättid och sekunder till deadline; slutvärden äldre än
+  fem minuter före deadline markeras med ⚠ i tabellen och har en förklarande tooltip.
 - Insamlingen startade 2026-06-10; äldre annonser går inte att rekonstruera
   (annons-id:n är krypterade och Wayback Machine har bara tomma JS-skal).
 - Originalannonslänkar (`refid`) kan sluta fungera — därför sparas info, planlösning
@@ -55,4 +68,10 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m scraper.poll    # en insamlingsrunda
 .venv/bin/python -m scraper.watch   # deadline-sampling (no-op om ingen deadline är nära)
 cd docs && python3 -m http.server   # dashboard på http://localhost:8000
+```
+
+Regressionstester (utan nätanrop eller ändringar i insamlad data):
+
+```bash
+.venv/bin/python -m unittest discover -s tests -v
 ```

@@ -120,6 +120,8 @@ def write_data_json():
         closed = is_closed(l)
         final = l.get("slutresultat") or {}
         sample = final if closed and final else (latest_by_key.get(l["key"]) or {})
+        deadline = parse_deadline_dt(l.get("deadline"))
+        observed = datetime.fromisoformat(sample["ts"]) if sample.get("ts") else None
         out.append(
             {
                 "key": l["key"],
@@ -139,6 +141,9 @@ def write_data_json():
                 "bokadStatus": l.get("bokadStatus"),
                 "kodagar": sample.get("kodagar"),
                 "antalSokande": sample.get("antal_sokande"),
+                "observerat": sample.get("ts"),
+                "sekunderForeDeadline": round((deadline - observed).total_seconds())
+                if deadline and observed else None,
                 "detaljUrl": l.get("detaljUrl"),
                 "planlosning": l.get("planlosningFil"),
                 "bilder": l.get("bildFiler", []),

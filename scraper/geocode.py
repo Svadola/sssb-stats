@@ -16,7 +16,7 @@ def geocode(street, city, cache):
     if not street:
         return None, None
     query = ", ".join(p for p in [street, city, "Stockholm", "Sweden"] if p)
-    if query in cache:
+    if query in cache and cache[query].get("lat") is not None and cache[query].get("lon") is not None:
         hit = cache[query]
         return hit.get("lat"), hit.get("lon")
 

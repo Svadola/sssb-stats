@@ -1,12 +1,11 @@
 name: Deadline watch
 
-# Startar före bokningsdeadline (hittills alltid kl 10:00 svensk tid) och
-# samplar tätt tills sista deadline passerat. Dubbla cron-tider täcker både
-# sommar- och vintertid; skriptet är en no-op om inga deadlines är nära.
+# Leta varje timme efter deadlines inom 150 minuter, oavsett klockslag/DST.
+# Actions kan starta sent; flera starttillfällen ger fler chanser att hinna fram.
+# Skriptet avslutar direkt om inga deadlines är nära.
 on:
   schedule:
-    - cron: "30 6 * * *"   # 08:30 CEST / 07:30 CET
-    - cron: "30 7 * * *"   # 09:30 CEST / 08:30 CET
+    - cron: "43 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,6 +13,7 @@ permissions:
 
 concurrency:
   group: scrape
+  queue: max   # ett väntande watch-jobb får inte ersättas av nästa poll
 
 jobs:
   watch:
@@ -21,6 +21,8 @@ jobs:
     timeout-minutes: 230
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}   # senaste datan när ett köat jobb faktiskt startar
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

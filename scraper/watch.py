@@ -15,6 +15,8 @@ from .poll import close_finished, load_latest, save_latest, snapshot
 
 LOOKAHEAD_MINUTES = 150  # hur långt fram vi letar deadlines innan no-op
 SAMPLE_INTERVAL_S = 120
+FINAL_WINDOW_S = 300
+FINAL_INTERVAL_S = 15
 EXTRA_AFTER_DEADLINE_S = 60  # sampla en stund förbi deadline för säkerhets skull
 MAX_RUNTIME_MINUTES = 200  # hård gräns så Actions-jobbet aldrig fastnar
 
@@ -30,7 +32,20 @@ def upcoming_deadlines(lookahead_minutes):
     return sorted(deadlines)
 
 
+def next_sample_delay(deadlines, interval_s, at):
+    """Sampla var 15:e sekund sista fem minuterna före varje deadline."""
+    upcoming = [dl for dl in deadlines if dl > at]
+    if not upcoming:
+        return interval_s
+    until_deadline = (min(upcoming) - at).total_seconds()
+    if until_deadline <= FINAL_WINDOW_S:
+        return min(interval_s, FINAL_INTERVAL_S, until_deadline)
+    return min(interval_s, until_deadline - FINAL_WINDOW_S)
+
+
 def run_watch(lookahead_minutes=LOOKAHEAD_MINUTES, interval_s=SAMPLE_INTERVAL_S):
+    if lookahead_minutes <= 0 or interval_s <= 0:
+        raise ValueError("lookahead och interval måste vara större än noll")
     deadlines = upcoming_deadlines(lookahead_minutes)
     if not deadlines:
         print(f"Inga deadlines inom {lookahead_minutes} min — avslutar.")
@@ -40,7 +55,8 @@ def run_watch(lookahead_minutes=LOOKAHEAD_MINUTES, interval_s=SAMPLE_INTERVAL_S)
     hard_stop = store.now() + timedelta(minutes=MAX_RUNTIME_MINUTES)
     end = min(end, hard_stop)
     print(f"{len(deadlines)} deadlines, sista {deadlines[-1]:%Y-%m-%d %H:%M}. "
-          f"Samplar var {interval_s}s till {end:%H:%M:%S}.")
+          f"Samplar var {interval_s}s (var {min(interval_s, FINAL_INTERVAL_S)}s "
+          f"sista fem minuterna) till {end:%H:%M:%S}.")
 
     latest = load_latest()
     while True:
@@ -51,10 +67,11 @@ def run_watch(lookahead_minutes=LOOKAHEAD_MINUTES, interval_s=SAMPLE_INTERVAL_S)
             print(f"{store.now():%H:%M:%S} {len(rows)} snapshots")
         except Exception as e:
             print(f"varning: sampling misslyckades: {e}", file=sys.stderr)
-        remaining = (end - store.now()).total_seconds()
+        at = store.now()
+        remaining = (end - at).total_seconds()
         if remaining <= 0:
             break
-        time.sleep(min(interval_s, remaining))
+        time.sleep(min(next_sample_delay(deadlines, interval_s, at), remaining))
 
     close_finished(latest)
     n = store.write_data_json()
