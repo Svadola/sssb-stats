@@ -10,6 +10,7 @@
    "text": "skarmarbrink_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 65 ködagar.",
  "deadline": "2026-09-24T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=4f423953617154725766646255554977747050453658786c315a32485959792b6c6a384159385630492b513d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-09-21",
  "publiceringstexter": "",
  "sistSedd": "2026-09-24T06:49:58+02:00",
+ "slutresultat": {
+  "antal_sokande": 2,
+  "kodagar": 65,
+  "ts": "2026-09-24T09:59:58+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "Bottenvåning",
