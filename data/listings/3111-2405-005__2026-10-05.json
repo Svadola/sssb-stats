@@ -1,0 +1,86 @@
+{
+ "adress": "Skomakargatan 24 A / 1202",
+ "bildFiler": [
+  {
+   "fil": "media/images/0a6cceaf9c846d2ec8cb2deb78599560e2e2833a.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/4d8f5bcf4a63aead3846a572879d3c9025ee8d3c.jpg",
+   "text": "Första fasad"
+  },
+  {
+   "fil": "media/images/90968d3fd70bb4650179e5f967632075a9197e9f.jpg",
+   "text": "Rum med kakelugn"
+  },
+  {
+   "fil": "media/images/f46e7b58b5eb83ded7de0f1556c335e9771b2f4c.jpg",
+   "text": "Kakelugn"
+  },
+  {
+   "fil": "media/images/0c02eee3bb5722fee01a3ad455d1a6baa624d111.jpg",
+   "text": "Atlas stuckatur golv"
+  },
+  {
+   "fil": "media/images/f7e308159af489d84b03ed35785226d1dd72abdd.jpg",
+   "text": "Atlas kök"
+  },
+  {
+   "fil": "media/images/cffaed628bc6552e12f2893ff8fa87341f8651dc.jpg",
+   "text": "Atlas kök kranar"
+  },
+  {
+   "fil": "media/images/26377ec36b860136b36ec92514361bad707fcc61.jpg",
+   "text": "Atlas handtag detaljer"
+  },
+  {
+   "fil": "media/images/bfaf596fbd864c494043ddfc9b8ca82e038ee6a7.jpg",
+   "text": "Atlas badrum klinker"
+  },
+  {
+   "fil": "media/images/eec7ccd7dd3cfe8ae705bbeb47193f14773a2613.jpg",
+   "text": "Atlas badrum"
+  },
+  {
+   "fil": "media/images/feb58b5eb98aa42c4ab51b67b203728416f35f09.jpg",
+   "text": "Atlas kakelugn blå"
+  },
+  {
+   "fil": "media/images/22aaff5d9eebfd38649c9a12fbafd3be9930d941.jpg",
+   "text": "Atlas Tvättstuga"
+  },
+  {
+   "fil": "media/images/46bdd8067d394f986a09ed54b00f2613a1c16302.jpg",
+   "text": "Atlas näst sista fasadbild"
+  },
+  {
+   "fil": "media/images/ca29ddce29d5225243c47bd2487b62c4c15a91b5.jpg",
+   "text": "Sista fasad"
+  },
+  {
+   "fil": "media/images/0189472e821d8d1ca1df7311b1826845c867cb27.jpg",
+   "text": "lucidor_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-10-08T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=41516f51443862716870523477525973767679613566615a542f5066476d6a44786b426a346736425a70593d",
+ "hiss": "Nej",
+ "hyra": "4 980",
+ "inflyttningDatum": "2026-11-01",
+ "kartURL": "https://maps.google.se/?q=Skomakargatan+24+A+%2F+1202%2CStockholm",
+ "key": "3111-2405-005__2026-10-05",
+ "lat": 59.3247572,
+ "lon": 18.070482,
+ "objektNr": "3111-2405-005",
+ "omrade": "Lucidor",
+ "omradeKod": "Lucido",
+ "planlosningFil": "media/floorplans/3111-2405-005.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3111-2405-005",
+ "publiceratDatum": "2026-10-05",
+ "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Nyrenoverad bostad</h4>Den här bostaden är nyrenoverad och du blir den första hyresgästen efter renoveringen.<br /><br />Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning, utrustning och detaljer i lägenheten kan variera. <br /><br /><h4>Q-märkt fastighet</h4>Bostaden är belägen i en Q-märkt fastighet med höga kulturhistoriska värden och unik karaktär. För att bevara och värna byggnadens historiska miljö gäller särskilda villkor för förändringar i bostaden. I samband med kontraktssigneringen kommer du att få ta del av och underteckna en bilaga med särskilda villkor för boende i en Q-märkt fastighet.<br /><br /><h4>Kollektivt boende</h4>Fem hyresgäster har var sitt rum och delar 1 kök, 1 dusch och WC, 1 badkar och WC samt en separat WC. <br /><br /><h4> Rum med kakelugn </h4>Detta rum har kakelugn. Observera att kakelugnen inte får användas eftersom eldningsförbud gäller. <br /><br /><h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-10-05T20:29:01+02:00",
+ "typ": "Rum i kollektiv",
+ "typOvergripande": "Studentrum",
+ "vaning": "2",
+ "yta": 16
+}
