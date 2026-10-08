@@ -62,6 +62,7 @@
    "text": "lucidor_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 4 personer, varav den med flest ködagar just nu har 205 ködagar.",
  "deadline": "2026-10-08T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=522f7a694f34546545677a6b6d656552525756597a6335334b61662f61315077335357344e6430596c6d6f3d",
  "hiss": "Nej",
@@ -79,6 +80,11 @@
  "publiceratDatum": "2026-10-05",
  "publiceringstexter": "<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Nyrenoverad bostad</h4>Den här bostaden är nyrenoverad och du blir den första hyresgästen efter renoveringen.<br /><br />Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning, utrustning och detaljer i lägenheten kan variera. <br /><br /><h4>Q-märkt fastighet</h4>Bostaden är belägen i en Q-märkt fastighet med höga kulturhistoriska värden och unik karaktär. För att bevara och värna byggnadens historiska miljö gäller särskilda villkor för förändringar i bostaden. I samband med kontraktssigneringen kommer du att få ta del av och underteckna en bilaga med särskilda villkor för boende i en Q-märkt fastighet.<br /><br /><h4>Kollektivt boende</h4>Sju hyresgäster har var sitt rum och delar 1 kök, 2 duschar och 3 WC. <br /><br /><h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-10-08T09:24:28+02:00",
+ "slutresultat": {
+  "antal_sokande": 5,
+  "kodagar": 596,
+  "ts": "2026-10-08T09:24:28+02:00"
+ },
  "typ": "Rum i kollektiv",
  "typOvergripande": "Studentrum",
  "vaning": "4",
