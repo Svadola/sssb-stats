@@ -1,0 +1,38 @@
+{
+ "adress": "Armégatan 32 C / 1002",
+ "bildFiler": [
+  {
+   "fil": "media/images/d65edceb6a4b11a42efbfef28cd9ad3fd0818d3e.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/7ed4528866f4fdf0f01f0c8005d9d3d6212281ed.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/09b700fe1cb244c91509cd00385c75c8157cbf57.jpg",
+   "text": "strix_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-10-15T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=42616c6e4c354a6a6e31624f2f6b67356d2b354e322b36573070384c79754b45335a484a2f4872776675413d",
+ "hiss": "Ja",
+ "hyra": "6 966",
+ "inflyttningDatum": "2026-11-16",
+ "kartURL": "https://maps.google.se/?q=Arm%C3%A9gatan+32+C+%2F+1002%2CSolna",
+ "key": "5102-3601-002__2026-10-12",
+ "lat": 59.3496816,
+ "lon": 18.0038842,
+ "objektNr": "5102-3601-002",
+ "omrade": "Strix",
+ "omradeKod": "STRIX",
+ "planlosningFil": "media/floorplans/5102-3601-002.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=5102-3601-002",
+ "publiceratDatum": "2026-10-12",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
+ "sistSedd": "2026-10-15T15:27:33+02:00",
+ "typ": "1 rum & kök",
+ "typOvergripande": "Studentetta",
+ "vaning": "Bottenvåning",
+ "yta": 21
+}
