@@ -26,6 +26,7 @@
    "text": null
   }
  ],
+ "bokadStatus": "Detta objekt har ännu inte bokats.",
  "deadline": "2026-10-15T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=5a78764d7669585451787547485965317a4b44476563566e487653544e325a504174716b576a436f2f41493d",
  "hiss": "Ja",
@@ -43,6 +44,11 @@
  "publiceratDatum": "2026-10-12",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-10-15T15:27:33+02:00",
+ "slutresultat": {
+  "antal_sokande": 1,
+  "kodagar": 60,
+  "ts": "2026-10-15T15:25:36+02:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "Bottenvåning",
