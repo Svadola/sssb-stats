@@ -1,0 +1,34 @@
+{
+ "adress": "David Bagares Gata 6 / 1201",
+ "bildFiler": [
+  {
+   "fil": "media/images/5b557eb2ace72edfcec2da42a633d47d852a9ba3.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/ff9929ca168ef08f891a4f224686a2b4c416cfe3.jpg",
+   "text": "vatan_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-10-26T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=5a357a347353395143714a6f56796938494377544c635a484d3748374f474247564c3643336d54435947343d",
+ "hiss": "Ja",
+ "hyra": "9 276",
+ "inflyttningDatum": "2026-12-01",
+ "kartURL": "https://maps.google.se/?q=David+Bagares+Gata+6+%2F+1201%2CStockholm",
+ "key": "3321-0604-001__2026-10-22",
+ "lat": 59.337334,
+ "lon": 18.068756,
+ "objektNr": "3321-0604-001",
+ "omrade": "Vätan",
+ "omradeKod": "Vätan",
+ "planlosningFil": "media/floorplans/3321-0604-001.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=3321-0604-001",
+ "publiceratDatum": "2026-10-22",
+ "publiceringstexter": "",
+ "sistSedd": "2026-10-22T10:03:05+02:00",
+ "typ": "1 rum & pentry",
+ "typOvergripande": "Studentetta",
+ "vaning": "2",
+ "yta": 43
+}
