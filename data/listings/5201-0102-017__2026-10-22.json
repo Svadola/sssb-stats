@@ -10,6 +10,7 @@
    "text": "pax_zoom_in_full"
   }
  ],
+ "bokadStatus": "Detta objekt har ännu inte bokats.",
  "deadline": "2026-10-26T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6270594379616c45494a4831534c592b516f5561637a36393645674b354177484b4c5949416a772f504e553d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-10-22",
  "publiceringstexter": "",
  "sistSedd": "2026-10-22T10:03:05+02:00",
+ "slutresultat": {
+  "antal_sokande": 0,
+  "kodagar": 0,
+  "ts": "2026-10-22T10:01:24+02:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "1",
