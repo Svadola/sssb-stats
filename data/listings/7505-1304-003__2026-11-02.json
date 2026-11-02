@@ -1,0 +1,34 @@
+{
+ "adress": "Forskarbacken 10 / 1102",
+ "bildFiler": [
+  {
+   "fil": "media/images/8179886e548e48d86b8b281d918c5a18759fe8b5.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/8cbde0d99a562eb49d312af5cc40eafe9701ed84.jpg",
+   "text": "lappkarrsberget_zoom_out_3_full"
+  }
+ ],
+ "deadline": "2026-11-05T10:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6a41736e4f34746434365354734a662f4a514537345479734a6d41373269584c4f6d5546773244434c57673d",
+ "hiss": "Nej",
+ "hyra": "4 743",
+ "inflyttningDatum": "2026-12-16",
+ "kartURL": "https://maps.google.se/?q=Forskarbacken+10+%2F+1102%2CStockholm",
+ "key": "7505-1304-003__2026-11-02",
+ "lat": 59.3704854,
+ "lon": 18.0630648,
+ "objektNr": "7505-1304-003",
+ "omrade": "Lappkärrsberget",
+ "omradeKod": "Lappis",
+ "planlosningFil": "media/floorplans/7505-1304-003.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=7505-1304-003",
+ "publiceratDatum": "2026-11-02",
+ "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Sanering av PCB-fogar och renovering av fönster</h4> Vi renoverar fönster och sanerar fogar från PCB i ditt område. Arbetet sker från utsidan via en byggställning som hänger från taket. Arbetet kan orsaka buller och insyn kortare perioder. Läs mer under <a href=\"https://www.sssb.se/nyheter/sanering-av-pcb-fogar-och-renovering-av-fonster/\">Sanering av PCB-fogar och renovering av fönster</a>.</div>\n",
+ "sistSedd": "2026-11-02T21:47:13+01:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "3",
+ "yta": 18
+}
