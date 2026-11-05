@@ -114,9 +114,15 @@ def is_closed(listing, at=None):
 
 def write_data_json():
     """Generera docs/data.json för dashboarden ur alla listing-filer."""
+    from . import catalog
+
     out = []
     latest_by_key = load_latest()
+    areas, rules = catalog.load_config()
+    last_seen = []
     for l in all_listings():
+        if l.get("sistSedd"):
+            last_seen.append(l["sistSedd"])
         closed = is_closed(l)
         final = l.get("slutresultat") or {}
         sample = final if closed and final else (latest_by_key.get(l["key"]) or {})
@@ -149,12 +155,15 @@ def write_data_json():
                 "bilder": l.get("bildFiler", []),
                 "lat": l.get("lat"),
                 "lon": l.get("lon"),
+                **catalog.enrich(l, areas, rules),
             }
         )
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     DATA_JSON.write_text(
         json.dumps(
-            {"genererad": now().isoformat(timespec="seconds"), "listings": out},
+            {"genererad": now().isoformat(timespec="seconds"),
+             "senastInsamlad": max(last_seen, default=None), "schemaVersion": 2,
+             "listings": out},
             ensure_ascii=False,
         )
     )

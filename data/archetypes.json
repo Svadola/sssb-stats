@@ -1,0 +1,6 @@
+{
+ "rules": [
+  {"id": "kungshamra-18-kok", "area": "Kungshamra", "type": "1 rum & kök", "sizes": [18], "name": "Etta med eget kök", "variant": "18 m² · eget kök"},
+  {"id": "kungshamra-23-pentry", "area": "Kungshamra", "type": "1 rum & pentry", "sizes": [23], "name": "Etta med pentry", "variant": "23 m² · pentry"}
+ ]
+}
