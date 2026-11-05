@@ -10,6 +10,7 @@
    "text": "jerum_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 9 personer, varav den med flest ködagar just nu har 811 ködagar.",
  "deadline": "2026-11-05T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3257785941544f5a364d384475694c4934376a67497757337a5962652b42356445706336416b534e42664d3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-02",
  "publiceringstexter": "",
  "sistSedd": "2026-11-05T03:27:10+01:00",
+ "slutresultat": {
+  "antal_sokande": 9,
+  "kodagar": 811,
+  "ts": "2026-11-05T09:59:53+01:00"
+ },
  "typ": "2 rum & pentry",
  "typOvergripande": "Studentlägenhet",
  "vaning": "Bottenvåning",
