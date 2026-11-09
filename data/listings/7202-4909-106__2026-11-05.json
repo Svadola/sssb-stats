@@ -34,6 +34,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 4 personer, varav den med flest ködagar just nu har 122 ködagar.",
  "deadline": "2026-11-09T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=39335653366b3549367252374a70676e6d70652b69784538766c7570667859594f41676968574a427164413d",
  "hiss": "Ja",
@@ -51,6 +52,11 @@
  "publiceratDatum": "2026-11-05",
  "publiceringstexter": "<div class=\"Publiceringstext BG WEBBBGPU\">Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning och ytfinish kan variera.<br /><br /> <h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Tidigare avtalsstart är möjlig </h4>Om du önskar att avtalet ska starta 16 maj istället för 1 juni, behöver du samtidigt som du laddar upp dina intyg på Mina sidor informera oss via mejl om att du önskar tidigare avtalsstart. Mejla oss på information@sssb.se och ange \"Tidigare avtalsstart\" i ämnesraden. Om du inte mejlar oss samtidigt som du laddar upp dina intyg, är det inte möjligt att ändra startdatumet. <strong>Endast 16 maj eller 1 juni är möjliga startdatum för detta avtal.</strong></div>\n",
  "sistSedd": "2026-11-09T08:57:58+01:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 122,
+  "ts": "2026-11-09T08:57:58+01:00"
+ },
  "typ": "1 rum & kök",
  "typOvergripande": "Studentetta",
  "vaning": "9",
