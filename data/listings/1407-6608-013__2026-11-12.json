@@ -1,0 +1,34 @@
+{
+ "adress": "Värtavägen 66 / 1611",
+ "bildFiler": [
+  {
+   "fil": "media/images/e53ab4c69aef59cb614f23b3b7554dcf3c5e2d32.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/3bb318874b9d3b230ad99fd8ec7a3d241030b79a.jpg",
+   "text": "fyrtalet_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-11-16T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=744c33364c4b436b6d3878646444737458354f586f764a455852366f593254647055616f6c3737714b78453d",
+ "hiss": "Ja",
+ "hyra": "4 928",
+ "inflyttningDatum": "2026-12-16",
+ "kartURL": "https://maps.google.se/?q=V%C3%A4rtav%C3%A4gen+66+%2F+1611%2CStockholm",
+ "key": "1407-6608-013__2026-11-12",
+ "lat": 59.3474344,
+ "lon": 18.1029193,
+ "objektNr": "1407-6608-013",
+ "omrade": "Fyrtalet",
+ "omradeKod": "Fyrtal",
+ "planlosningFil": "media/floorplans/1407-6608-013.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1407-6608-013",
+ "publiceratDatum": "2026-11-12",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\">Med reservation för avvikelser avseende mått och fast inredning i bostaden.</div>\n<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4><br>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
+ "sistSedd": "2026-11-12T12:07:41+01:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "6",
+ "yta": 18
+}

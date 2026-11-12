@@ -10,6 +10,7 @@
    "text": "nyponet_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 25 personer, varav den med flest ködagar just nu har 1551 ködagar.",
  "deadline": "2026-11-12T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=36464a2f456a4b455a4d584235716171726b2f596c35556b66374e4f52433368464b663545463334495a303d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-09",
  "publiceringstexter": "",
  "sistSedd": "2026-11-12T03:58:32+01:00",
+ "slutresultat": {
+  "antal_sokande": 26,
+  "kodagar": 1656,
+  "ts": "2026-11-12T03:58:32+01:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "19",

@@ -1,0 +1,34 @@
+{
+ "adress": "Studentbacken 21 / 1509",
+ "bildFiler": [
+  {
+   "fil": "media/images/e34e98ea05dfc606cf98e4317a6a23ff3dc26fde.jpg",
+   "text": null
+  },
+  {
+   "fil": "media/images/5d1075dce66e19f64bb372323fcb65f3f0d75c67.jpg",
+   "text": "jerum_zoom_in_full"
+  }
+ ],
+ "deadline": "2026-11-16T16:00",
+ "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=3253676152344a5a704333354964377039676863456b556f753466756c30393652396e7966614a6b6f48773d",
+ "hiss": "Ja",
+ "hyra": "4 743",
+ "inflyttningDatum": "2026-12-16",
+ "kartURL": "https://maps.google.se/?q=Studentbacken+21+%2F+1509%2CStockholm",
+ "key": "1106-2107-018__2026-11-12",
+ "lat": 59.3486682,
+ "lon": 18.0949179,
+ "objektNr": "1106-2107-018",
+ "omrade": "Jerum",
+ "omradeKod": "Jerum",
+ "planlosningFil": "media/floorplans/1106-2107-018.pdf",
+ "planlosningUrl": "https://sssb.bim.cloud/HopaGetView4Object?CN=fmo_rentobj_i&FN=rentobj_id&SMP1=100&OF=PDF&TID=78&LN=Objektmarkering&psetId=14&MM1=1&MM2=0&DFS=0&MV=1&HLI1=0&FV=1106-2107-018",
+ "publiceratDatum": "2026-11-12",
+ "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
+ "sistSedd": "2026-11-12T12:07:41+01:00",
+ "typ": "Rum i korridor",
+ "typOvergripande": "Studentrum",
+ "vaning": "5",
+ "yta": 17
+}

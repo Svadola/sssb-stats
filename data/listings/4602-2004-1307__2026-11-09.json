@@ -42,6 +42,7 @@
    "text": null
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 2 personer, varav den med flest ködagar just nu har 163 ködagar.",
  "deadline": "2026-11-12T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=5168336a6d745938436151306a42742f536272656d3533616471795a644d395541742b756a7a507a7664493d",
  "hiss": "Ja",
@@ -59,6 +60,11 @@
  "publiceratDatum": "2026-11-09",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Individuell mätning och debitering av varmvatten</h4>En schablonkostnad ingår i den angivna hyran och justeras i efterhand utifrån faktisk förbrukning. Läs mer under <a href=\"https://www.sssb.se/elvarmvatten/\">Individuell mätning av varmvatten och el</a>. <br /><br /> <h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-11-12T03:58:32+01:00",
+ "slutresultat": {
+  "antal_sokande": 2,
+  "kodagar": 163,
+  "ts": "2026-11-12T03:58:32+01:00"
+ },
  "typ": "2 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "3",
