@@ -10,6 +10,7 @@
    "text": "jerum_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 1 personer, varav den med flest ködagar just nu har 117 ködagar.",
  "deadline": "2026-11-13T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=753362467a66667a6242756147396b6858314d64694a7a7658714e573466694b593478716a65524d59584d3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-12",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
  "sistSedd": "2026-11-13T08:56:52+01:00",
+ "slutresultat": {
+  "antal_sokande": 2,
+  "kodagar": 122,
+  "ts": "2026-11-13T08:56:52+01:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "3",
