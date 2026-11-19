@@ -10,6 +10,7 @@
    "text": "vatan_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 32 personer, varav den med flest ködagar just nu har 1627 ködagar.",
  "deadline": "2026-11-19T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=43584c7a5234467a374a2b54754750476a373767383150422b666d6b4b2f6b7372767a626454776c66626f3d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-16",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
  "sistSedd": "2026-11-19T04:26:33+01:00",
+ "slutresultat": {
+  "antal_sokande": 32,
+  "kodagar": 1627,
+  "ts": "2026-11-19T04:26:33+01:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "3",

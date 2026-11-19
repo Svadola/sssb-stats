@@ -62,6 +62,7 @@
    "text": "lucidor_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 7 personer, varav den med flest ködagar just nu har 538 ködagar.",
  "deadline": "2026-11-19T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6d707a664f626e7a4468424c464e6d4c39564d79716e76644e4b594367447079664a4c742f71346a6d65513d",
  "hiss": "Nej",
@@ -79,6 +80,11 @@
  "publiceratDatum": "2026-11-16",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><h4>Nyrenoverad bostad</h4>Den här bostaden är nyrenoverad.<br /><br />Bilderna är endast i illustrativt syfte och visar exempel på material och standard; planlösning, utrustning och detaljer i lägenheten kan variera. <br /><br /><h4>Q-märkt fastighet</h4>Bostaden är belägen i en Q-märkt fastighet med höga kulturhistoriska värden och unik karaktär. För att bevara och värna byggnadens historiska miljö gäller särskilda villkor för förändringar i bostaden. I samband med kontraktssigneringen kommer du att få ta del av och underteckna en bilaga med särskilda villkor för boende i en Q-märkt fastighet.<br /><br /><h4>Kollektivt boende</h4>Sex hyresgäster har var sitt rum och delar 1 kök, 2 duschar och 3 WC. <br /><br /><h4>Bredband ingår</h4>Bredband ingår i den angivna hyran. Läs mer under <a href=\"https://www.sssb.se/bredband-och-tv/\">Bredband och TV</a>.</div>\n",
  "sistSedd": "2026-11-19T04:26:33+01:00",
+ "slutresultat": {
+  "antal_sokande": 5,
+  "kodagar": 406,
+  "ts": "2026-11-19T04:26:33+01:00"
+ },
  "typ": "Rum i kollektiv",
  "typOvergripande": "Studentrum",
  "vaning": "3",
