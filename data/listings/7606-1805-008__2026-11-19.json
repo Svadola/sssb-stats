@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 6 personer, varav den med flest ködagar just nu har 136 ködagar.",
  "deadline": "2026-11-23T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=644974366359674a2b72694f456642736e456a45707130554a375357524b5a4d56474d416e3563317863303d",
  "hiss": "Nej",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-19",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n<div class=\"Publiceringstext OBJ WEBBOBJPU\"><strong>Vänligen notera</strong> att bostaden ligger i anslutning till Lappis padelbana vilket kan uppfattas som störande.</div>\n",
  "sistSedd": "2026-11-23T10:03:21+01:00",
+ "slutresultat": {
+  "antal_sokande": 6,
+  "kodagar": 252,
+  "ts": "2026-11-23T10:03:21+01:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "3",

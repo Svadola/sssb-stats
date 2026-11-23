@@ -10,6 +10,7 @@
    "text": "roslagstull_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 13 personer, varav den med flest ködagar just nu har 287 ködagar.",
  "deadline": "2026-11-23T16:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=474146662b766e63344a365051634c4631354e2b33506b4d46685a526c75364634654f39553843653170773d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-19",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n<div class=\"Publiceringstext BG WEBBBGPU\"><h4>Viktigt att ta del av innan du bokar</h4>I den här bostaden kan du bo i max 4 år, men du kan behöva flytta tidigare eftersom vi planerar att renovera fastigheten eller använda bostaden som evakueringsbostad. Du behöver därför signera ett avstående från besittningsskydd i samband med signeringen av detta hyresavtal. Det är viktigt att du läser informationen under <a href=\"https://www.sssb.se/nyheter/renovering-pa-roslagstull/\">Renovering på Roslagstull</a> och <a href=\"https://www.sssb.se/vara-olika-hyresavtal/\">Våra olika typer av hyresavtal</a>.</div>\n",
  "sistSedd": "2026-11-23T10:03:21+01:00",
+ "slutresultat": {
+  "antal_sokande": 12,
+  "kodagar": 174,
+  "ts": "2026-11-23T10:03:21+01:00"
+ },
  "typ": "Rum i korridor",
  "typOvergripande": "Studentrum",
  "vaning": "7",
