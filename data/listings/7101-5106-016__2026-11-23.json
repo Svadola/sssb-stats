@@ -10,6 +10,7 @@
    "text": "lappkarrsberget_zoom_out_3_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 12 personer, varav den med flest ködagar just nu har 1073 ködagar.",
  "deadline": "2026-11-26T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=43396a714773564a3444547252574e4b32494d4375386938644b41557773304530555571555161337851733d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-23",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
  "sistSedd": "2026-11-26T06:02:59+01:00",
+ "slutresultat": {
+  "antal_sokande": 13,
+  "kodagar": 1073,
+  "ts": "2026-11-26T06:02:59+01:00"
+ },
  "typ": "1 rum & pentry",
  "typOvergripande": "Studentetta",
  "vaning": "3",
