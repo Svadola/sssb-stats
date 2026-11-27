@@ -10,6 +10,7 @@
    "text": "nyponet_zoom_in_full"
   }
  ],
+ "bokadStatus": "Denna bostad har bokats av 25 personer, varav den med flest ködagar just nu har 1641 ködagar.",
  "deadline": "2026-11-27T10:00",
  "detaljUrl": "http://minasidor.sssb.se/lediga-bostader/lagenhet/?refid=6b5777794777654e46427861386d624a42316c714a5073545a6d39334d3479333861462b4b54514f7261413d",
  "hiss": "Ja",
@@ -27,6 +28,11 @@
  "publiceratDatum": "2026-11-26",
  "publiceringstexter": "<div class=\"Publiceringstext FT WEBBFTPU\"><h4>Viktig information gällande angiven hyra</h4>Hyran som anges i annonsen är 2026 års hyresnivå. Förhandlingar gällande 2027 års hyresnivå pågår.</div>\n",
  "sistSedd": "2026-11-27T09:30:55+01:00",
+ "slutresultat": {
+  "antal_sokande": 25,
+  "kodagar": 1641,
+  "ts": "2026-11-27T09:30:55+01:00"
+ },
  "typ": "3 rum & kök",
  "typOvergripande": "Studentlägenhet",
  "vaning": "9",
